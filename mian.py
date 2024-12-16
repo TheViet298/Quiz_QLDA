@@ -1,3 +1,4 @@
+#đọc file word -> json
 import os
 import json
 import re
@@ -14,15 +15,15 @@ def parse_questions(doc_path):
     question = {}
     answers = []
     question_number = 1
-    question_pattern = re.compile(r'^\d+\)')  # Câu hỏi bắt đầu bằng số và dấu ')'
-    answer_pattern = re.compile(r'^[ABCD]\.')  # Đáp án bắt đầu bằng A., B., C., D.
+    question_pattern = re.compile(r'^\d+\)')  #nhận dạng câu hỏi
+    answer_pattern = re.compile(r'^[ABCD]\.')  
     
     for paragraph in document.paragraphs:
         text = paragraph.text.strip()
         if not text:
             continue
-        if question_pattern.match(text):  # Phát hiện câu hỏi
-            if question:  # Lưu câu hỏi trước đó
+        if question_pattern.match(text):  
+            if question:  
                 question['answers'] = answers
                 questions.append(question)
                 question = {}
