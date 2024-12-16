@@ -1,0 +1,3680 @@
+[
+    {
+        "question": "1. Bốn đối tượng liên quan chính trong mỗi dự án?",
+        "type": "single",
+        "answers": [
+            {
+                "text": "Giám đốc dự án, đội dự án, các giám đốc cao cấp và khách hàng.",
+                "correct": false
+            },
+            {
+                "text": "Giám đốc dự án, khách hàng, tổ chức thực hiện và các nhà tài trợ.",
+                "correct": true
+            },
+            {
+                "text": "Giám đốc dự án, giám đốc chức năng, khách hàng và giám đốc cao cấp.",
+                "correct": false
+            },
+            {
+                "text": "Giám đốc cao cấp, giám đốc chức năng, khách hàng và nhà tài trợ.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "2. Một nhiệm vụ của ban quản lý dự án là gì?",
+        "type": "single",
+        "answers": [
+            {
+                "text": "Cung cấp hỗ trợ quản lý dự án",
+                "correct": true
+            },
+            {
+                "text": "Cung cấp sự giám sát và chỉ đạo",
+                "correct": false
+            },
+            {
+                "text": "Đưa ra phân tích lợi nhuận chi phí cho giám đốc dự án",
+                "correct": false
+            },
+            {
+                "text": "Cung cấp sự trợ giúp với việc hoàn tất các nhiệm vụ",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "3. Các nhóm nào sau đây xác định rõ nhất ai là các đối tượng liên quan trong dự án?",
+        "type": "single",
+        "answers": [
+            {
+                "text": "Đội ngũ thành viên dự án, các nhà cung cấp, đại diện từ công ty của khách hàng là người sẽ sử dụng phần có thể chuyển giao.",
+                "correct": false
+            },
+            {
+                "text": "Đội ngũ thành viên dự án, nhà tài trợ, nhà cung cấp, đại diện từ công ty của khách hàng là người sẽ sử dụng phần có thể chuyển giao và các trưởng bộ phận chức năng của công ty bạn.",
+                "correct": true
+            },
+            {
+                "text": "Đội ngũ thành viên dự án, các nhà tài trợ, nhân viên điều hành của công ty bạn và nhân viên điều hành của khách hàng.",
+                "correct": false
+            },
+            {
+                "text": "Đội ngũ thành viên dự án, nhân viên điều hành công ty bạn, nhân viên điều hành của khách hàng và các trưởng bộ phận chức năng của công ty bạn.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "4. Bạn được bổ nhiệm là giám đốc dự án của một dự án hiện tại. Bạn đã từng ở công ty một vài năm nhưng không nằm trong phạm vi dự án này đang diễn ra. Kế hoạch quản lý dự án được đặt đúng chỗ. Dự án không vượt quá một vài ngưỡng cửa thay đổi nào đó. Khách hàng không vui với trạng thái dự án. Trong các hành động sau đây thì hành động ban đầu tốt nhất là gi?",
+        "type": "single",
+        "answers": [
+            {
+                "text": "Tiến hành xây dựng đội ngũ với tất cả các đối tượng liên quan dự án.",
+                "correct": false
+            },
+            {
+                "text": "Chuẩn bị kế hoạch hành động hiệu chỉnh.",
+                "correct": false
+            },
+            {
+                "text": "Xác nhận các nhu cầu và kỳ vọng của khách hàng.",
+                "correct": true
+            },
+            {
+                "text": "Xác nhận hệ thống quản lý thay đổi đang vận hành thích hợp.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "5. Vai trò của giám đốc dự án trong dự án là gì?",
+        "type": "single",
+        "answers": [
+            {
+                "text": "Quản lý mối quan hệ giữa các thành viên trong đội.",
+                "correct": true
+            },
+            {
+                "text": "Xác định toàn bộ ưu tiên của dự án trong tổ chức.",
+                "correct": false
+            },
+            {
+                "text": "Hoàn tất nhiệm vụ được giao.",
+                "correct": false
+            },
+            {
+                "text": "Cung cấp nguồn lực cho dự án.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "6. Nhà tài trợ dự án chịu trách nhiệm về:",
+        "type": "single",
+        "answers": [
+            {
+                "text": "Kết quả dự án chứ không phải nguồn tài chính.",
+                "correct": false
+            },
+            {
+                "text": "Không phải nguồn tài chính cũng không phải kết quả dự án.",
+                "correct": false
+            },
+            {
+                "text": "Cả nguồn tài chính và kết quả dự án.",
+                "correct": true
+            },
+            {
+                "text": "Nguồn tài chính chứ không phải kết quả.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "7. Bạn là giám đốc dự án cho một dự án lớn đã tiến hành một vài lần. Bạn vừa hoàn tất giai đoạn thiết kế giao diện người dùng của dự án và đang tiến hành công việc trong giai đoạn triển khai. Tại thời điểm này, ba thay đổi nào có thể xảy ra mà không có rủi ro tiến hành lại",
+        "type": "multiple",
+        "answers": [
+            {
+                "text": "Thiết kế dữ liệu",
+                "correct": true
+            },
+            {
+                "text": "Phạm vi",
+                "correct": true
+            },
+            {
+                "text": "Ngày chuyển giao",
+                "correct": true
+            },
+            {
+                "text": "Nguồn tài chính",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "8. Quản lý dự án là phương pháp tiếp cận quản lý được ưa ưu tiên hơn ngoại trừ đổi với.",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Các phần có thể chuyển giao bị ràng buộc thời gian.",
+                "correct": false
+            },
+            {
+                "text": "Môi trường sản xuất sản phẩm.",
+                "correct": true
+            },
+            {
+                "text": "Các hoạt động duy nhất.",
+                "correct": false
+            },
+            {
+                "text": "Các nhiệm vụ đa chức năng.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "9. Một giám đốc dự án thành công vừa là một giám đốc vừa là một:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Chuyên gia về kỹ thuật.",
+                "correct": false
+            },
+            {
+                "text": "Nhà lãnh đạo.",
+                "correct": true
+            },
+            {
+                "text": "Nhà tài trợ.",
+                "correct": false
+            },
+            {
+                "text": "Đối tượng liên quan dự án.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "10. Các nhà tài trợ dự án có ảnh hưởng lớn nhất đến phạm vi, chất lượng, thời đoạn và chỉ phí của dự án trong suốt giai đoạn nào?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Giai đoạn hoàn thiện",
+                "correct": false
+            },
+            {
+                "text": "Giai đoạn xây dựng",
+                "correct": false
+            },
+            {
+                "text": "Giai đoạn lập kế hoạch",
+                "correct": true
+            },
+            {
+                "text": "Giai đoạn thực thi",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "11. Ba thành phần nào là bộ phận của kế hoạch dự án? (Chọn 3)",
+        "type":"multiple",
+        "answers": [
+            {
+                "text": "Kế hoạch kiểm tra.",
+                "correct": true
+            },
+            {
+                "text": "Kế hoạch đào tạo,",
+                "correct": true
+            },
+            {
+                "text": "Nguồn lực dự định.",
+                "correct": true
+            },
+            {
+                "text": "Các chỉ tiết kỹ thuật thiết kế.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "12. Như một bộ phận của định nghĩa phạm vì tổng thể và lập kế hoạch dự án trong giai đoạn khởi tạo của dự án, quy định dự án và bảng kê công việc yêu cầu giám đốc dự án phải:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Tính đến các dự phòng cho những điều chưa biết.",
+                "correct": false
+            },
+            {
+                "text": "Nghiên cứu các quy định cụ thể của ngành về ảnh hưởng trong dự án.",
+                "correct": true
+            },
+            {
+                "text": "Đạt được sự nhất trí của đội ngũ thành viên về nhiệm vụ và thời đoạn.",
+                "correct": false
+            },
+            {
+                "text": "Xây dựng cấu trúc chi tiết công việc một cách chi tiết.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "13. Điều gì sau đây được tính vào mục tiêu của giai đoạn hoàn thiện?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Kiểm thử sản phẩm.",
+                "correct": false
+            },
+            {
+                "text": "Sự ủng hộ của đối tượng liên quan dự án.",
+                "correct": false
+            },
+            {
+                "text": "Chấp thuận người sử dụng.",
+                "correct": true
+            },
+            {
+                "text": "Đào tạo người sử dụng.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "14. Cái nào sau đây là sản phẩm của quy trình khởi tạo dự án?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Quy định dự án.",
+                "correct": true
+            },
+            {
+                "text": "Kế hoạch dự án với các nguồn lực đã được phân bổ.",
+                "correct": false
+            },
+            {
+                "text": "WBS (Cấu trúc chỉ tiết công việc).",
+                "correct": false
+            },
+            {
+                "text": "Liệt kê nhiệm vụ.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "15. Điều nào sau đây là kết quả có hiệu lực của quy trình quản lý thay đổi?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Khuyến khích thay đổi thường xuyên trong suốt vòng đời dự án",
+                "correct": false
+            },
+            {
+                "text": "Cân bằng giữa rủi ro và chi phí dự án",
+                "correct": false
+            },
+            {
+                "text": "Giảm tới mức tối thiểu sự mất mát năng suất trong suốt dự án",
+                "correct": true
+            },
+            {
+                "text": "Cẩm hoàn toàn bất cứ sự thay đổi phạm vi nào trong suốt toàn bộ dự án",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "16. Giai đoạn quan trọng cuối cùng của dự án là gì?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Hoàn thiện.",
+                "correct": true
+            },
+            {
+                "text": "Duyệt.",
+                "correct": false
+            },
+            {
+                "text": "Chấp thuận.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "17. Bạn là giám đốc một dự án đang trong giai đoạn lập kế hoạch. Bạn nhận được một báo cáo viết không rõ ràng về mục đích và các mục tiêu của dự án. Hai kỹ thuật nào bạn có thể sử dụng để hiểu được mục đích và các mục tiêu của dự án? (Chọn 2)",
+        "type":"multiple",
+        "answers": [
+            {
+                "text": "Tiến hành một buổi phỏng vấn trực tiếp một đổi một.",
+                "correct": true
+            },
+            {
+                "text": "Tìm kiếm sự ủng hộ dự án chính thức từ các khách hàng dự án.",
+                "correct": false
+            },
+            {
+                "text": "Tiến hành một buổi tiếp xúc với các khách hàng được tạo điều kiện thuận lợi.",
+                "correct": true
+            },
+            {
+                "text": "Xây dựng một biểu đồ Pareto,",
+                "correct": false
+            },
+            {
+                "text": " Xây dựng một hoành đồ.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "18. Bước đầu tiên trong giai đoạn hoàn thiện dự án là:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Những bài học thu được.",
+                "correct": false
+            },
+            {
+                "text": "Chấp thuận người sử dụng.",
+                "correct": true
+            },
+            {
+                "text": "Tài liệu cuối cùng.",
+                "correct": false
+            },
+            {
+                "text": "Hoàn thiện hợp đồng.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "19. Hai kết quả có thể xẩy ra đối với kế hoạch dự án khi kinh phí bắt buộc được xác lập thấp là gì? (Chọn 2 đáp án)",
+        "type":"multiple",
+        "answers": [
+            {
+                "text": "Dự án bị huỷ bỏ.",
+                "correct": false
+            },
+            {
+                "text": "Lịch trình dự án tăng lên.",
+                "correct": false
+            },
+            {
+                "text": "Lịch trình dự án giảm xuống.",
+                "correct": false
+            },
+            {
+                "text": "Chất lượng dự án giảm xuống.",
+                "correct": true
+            },
+            {
+                "text": "Tính năng dự án giảm xuống.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "20. Quy định dự án là tài liệu mức độ cao ban đầu xây dựng trong giai đoạn lập kế hoạch. Hai thành phần chính của quy định dự án là gì? (Chọn 2).",
+        "type":"multiple",
+        "answers": [
+            {
+                "text": "Các đối tượng liên quan dự án.",
+                "correct": true
+            },
+            {
+                "text": "Kế hoạch kiểm thử hệ thống.",
+                "correct": false
+            },
+            {
+                "text": "Kế hoạch triển khai hệ thống.",
+                "correct": false
+            },
+            {
+                "text": "Phạm vi dự án.",
+                "correct": false
+            },
+            {
+                "text": "Kế hoạch kiến trúc nghiệp vụ,",
+                "correct": true
+            },
+            {
+                "text": "Các yêu cầu phần cứng và phần mềm.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "21. Nhiệm vụ cần thiết trong việc chuẩn bị ở giai đoạn hoàn thiện là:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Duyệt dự án.",
+                "correct": true
+            },
+            {
+                "text": "Kiểm soát thay đổi.",
+                "correct": false
+            },
+            {
+                "text": "Đánh giá rủi ro.",
+                "correct": false
+            },
+            {
+                "text": "Quản lý cấu hình.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "22. Giám đốc dự án đã khám phá vấn đề với môđun thống kê của dự án. Các số đo đã được ghi rõ cho các đơn vị của Mỹ nhưng các nhà lập trình nước ngoài sử dụng các đơn vị quốc tế. Vấn đề này có thể tránh được ở chỗ nào trong dự án?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Lập kế hoạch dự án.",
+                "correct": true
+            },
+            {
+                "text": "Kiểm soát dự án.",
+                "correct": false
+            },
+            {
+                "text": "Kiểm thử dự án.",
+                "correct": false
+            },
+            {
+                "text": "Quay vòng dự án.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "23. Hai phát biểu nào hình thành cơ sở thực tế để xác lập và tính toán các mục tiêu của dự án? (Chọn 2)",
+        "type":"multiple",
+        "answers": [
+            {
+                "text": "Các dự án nên được lập kế hoạch tỉnh đến các điểm quyết định tiến hành không tiến hành dựa vào và bắt đầu bằng việc hoàn tất các phần có thể chuyển giao chính.",
+                "correct": false
+            },
+            {
+                "text": "Việc hoàn tất giai đoạn phân tích hệ thống nhận ra nhiều yêu cầu hơn so với dự định ban đầu không nên gây ra bất kỳ thay đổi nào tới kinh phí dự án.",
+                "correct": true
+            },
+            {
+                "text": "Mốc quan trọng có thể đo được dựa vào việc hoàn tất phần có thể chuyển giao.",
+                "correct": true
+            },
+            {
+                "text": "Các mốc quan trọng được xác lập trong kế hoạch và không nên thay đổi.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "24. Đánh giá điểm kiểm soát trong kế hoạch dự án chỉ ra:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Báo cáo trạng thái đến kỳ hạn",
+                "correct": false
+            },
+            {
+                "text": "Các quyết định đi hay không đi",
+                "correct": true
+            },
+            {
+                "text": "Ngày tháng cho người sử dụng kỳ kết hoàn tất theo kế hoạch",
+                "correct": false
+            },
+            {
+                "text": "Cuộc họp kiểm soát thay đổi",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "25. Cái nào được chỉ tiết hoá trong tài liệu lập kế hoạch dự án đối với giám đốc sự án?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Hiệu suất sẽ được đánh giá như thế nào",
+                "correct": true
+            },
+            {
+                "text": "Lịch trình nghi",
+                "correct": false
+            },
+            {
+                "text": "Tên của đội ngũ thành viên dự án",
+                "correct": false
+            },
+            {
+                "text": "Các chứng nhận kỹ thuật được tổ chức",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "26. Trong các giai đoạn lập kế hoạch, tiền cần phải được dự thảo ngân sách cho một trong những điều nào sau đây sau các nhiệm vụ hoàn thiện?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Quản lý cấu hình.",
+                "correct": false
+            },
+            {
+                "text": "Kiểm soát thay đổi phạm vi dự án mới.",
+                "correct": false
+            },
+            {
+                "text": "Duy trì.",
+                "correct": true
+            },
+            {
+                "text": "Lập kế hoạch lại.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "27. Các nhà tài trợ dự án có ảnh hưởng lớn nhất đến phạm vi, chất lượng, thời đoạn và chỉ",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Giai đoạn hoàn thiện",
+                "correct": false
+            },
+            {
+                "text": "Giai đoạn thực thi",
+                "correct": false
+            },
+            {
+                "text": "Giai đoạn xây dựng",
+                "correct": false
+            },
+            {
+                "text": "Giai đoạn lập kế hoạch",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "28. Dự án được thực hiện tốt theo kinh phí, tuy nhiên để đáp ứng các phần chuyển giao của khách hàng thì ngày tháng chuyển giao tới khách hàng sẽ bị muộn hơn 2 tuần. Không có nguồn lực phụ phân công cho dự án. Giám đốc dự án nên làm gì?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Thông báo cho khách hàng về việc trễ hạn và tìm kiếm sự ủng hộ thích hợp bằng tài liệu.",
+                "correct": true
+            },
+            {
+                "text": "Tuân theo quy trình thay đổi được phác thảo trong quy định dự án.",
+                "correct": false
+            },
+            {
+                "text": "Thay đổi phạm vi các đặc tính của khách hàng để chuyển giao sản phẩm vào ngày tháng chuyển giao đã hứa",
+                "correct": false
+            },
+            {
+                "text": "Khi dự án nằm trong giới hạn kinh phí thì bạn chẳng phải làm gì cả.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "29. Khi nào thì các quyết định thiếu sót xảy ra trong vòng đời dự án?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Bất cứ thời điểm nào trong suốt vòng đời dự án trước khi chuyển giao như đã được xác định trong kế hoạch dự án.",
+                "correct": true
+            },
+            {
+                "text": "Ngay khi thiếu sót được phát hiện ra.",
+                "correct": false
+            },
+            {
+                "text": "Sau khi kiểm thử chấp thuận sản phẩm diễn ra.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "30. Trong tình huống nào giám đốc dự án được yêu cầu phải gửi một yêu cầu thay đổi tới nhà tài trợ và các đối tượng liên quan dự án.",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Khi chi phí vượt quá độ biển động cho phép theo kinh phí.",
+                "correct": true
+            },
+            {
+                "text": "Khi không có sự lựa chọn khả thi.",
+                "correct": false
+            },
+            {
+                "text": "Thời điểm nào đó yêu cầu thay đổi được xét duyệt.",
+                "correct": false
+            },
+            {
+                "text": "Khi khách hàng đồng ý thay đổi.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "31. Căn cứ vào báo cáo phạm vì và các giả định dự án được chỉ ra trong triển lãm thì điều gì phải được hoàn tất đầu tiên?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "So sánh với số tiền phải trả cho nhân viên trong ba tháng.",
+                "correct": false
+            },
+            {
+                "text": "Để số tiền phải trả cho nhân viên sau ngày 31 tháng 11.",
+                "correct": true
+            },
+            {
+                "text": "Đổi dữ liệu về số tiền phải trả cho nhân viên vào tháng 12.",
+                "correct": false
+            },
+            {
+                "text": "Để số tiền phải trả cho nhân viên với độ chính xác 100% trong tháng 1.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "32. Điều kiện hợp lý để bắt đầu yêu cầu thay đổi phạm vi dự án là gì?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Không giữ đúng thời hạn lịch trình dự án.",
+                "correct": false
+            },
+            {
+                "text": "Vấn đề dự án chưa được giải quyết.",
+                "correct": false
+            },
+            {
+                "text": "Yêu cầu mới do các đối tượng liên quan dự án đưa ra.",
+                "correct": true
+            },
+            {
+                "text": "Vấn đề chuyển giao nhà cung cấp.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "33. Như một bộ phận của định nghĩa phạm vi tổng thể và lập kế hoạch dự án trong giai đoạn khởi tạo của dự án, quy định dự án và bảng kê công việc yêu cầu giám đốc dự án phải:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Nghiên cứu các quy định cụ thể của ngành về ảnh hưởng trong dự án.",
+                "correct": true
+            },
+            {
+                "text": "Đạt được sự nhất trí của đội ngũ thành viên về nhiệm vụ và thời đoạn.",
+                "correct": false
+            },
+            {
+                "text": "Tính đến các dự phòng cho những điều chưa biết,",
+                "correct": false
+            },
+            {
+                "text": "Xây dựng cấu trúc chỉ tiết công việc một cách chi tiết.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "34. Có nhiều phương pháp dùng để giám sát hiệu quả của dự án. Hai phương pháp nào có thể được dùng để giám sát các thay đổi phạm vì? (Chọn 2)",
+        "type":"multiple",
+        "answers": [
+            {
+                "text": "Theo dõi giá trị đồng đôla của công việc thêm vào được thực hiện.",
+                "correct": true
+            },
+            {
+                "text": "Phân tích lịch sử biến động chỉ phí.",
+                "correct": false
+            },
+            {
+                "text": "Theo dõi số lượng thay đổi phạm vi.",
+                "correct": false
+            },
+            {
+                "text": "Phân tích lịch sử biến động lịch trình.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "35. Phạm vì dự án do khách hàng yêu cầu sau khi chấp thuận thiết kế có khả năng ảnh hưởng tới một số thành phần của dự án. Điều gì sau đây là câu trả lời tốt nhất của giám đốc dự án?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Thực hiện phân tích ảnh hưởng chi tiết tới chi phí và lịch trình, đồng thời triệu tập một cuộc họp đội dự án.",
+                "correct": false
+            },
+            {
+                "text": "Ước tính ảnh hưởng tới chi phí và lịch trình và phê duyệt trước khi tiến hành.",
+                "correct": true
+            },
+            {
+                "text": "Thuyết phục khách hàng hoãn thay đổi.",
+                "correct": false
+            },
+            {
+                "text": "Đưa ra những thay đổi then chốt bất chấp chi phí và ảnh hưởng của nó, đồng thời thông báo cho ban quản lý thay đổi.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "36. Điều gì sau đây nên được tính đến trong định nghĩa phạm vi và quy định dự án?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Phương pháp luận mã chuẩn.",
+                "correct": false
+            },
+            {
+                "text": "Tiêu chí hoàn tất.",
+                "correct": true
+            },
+            {
+                "text": "CPM (Phương pháp đường tới hạn).",
+                "correct": false
+            },
+            {
+                "text": "WBS (Cấu trúc chỉ tiết công việc).",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "37. Giám đốc dự án được chỉ định cho một dự án lớn đã và đang được thực hiện một số lần. Đội dự án vừa hoàn tất giai đoạn thiết kế của dự án và đang tiến hành trong giai đoạn triển khai. Tại điểm này, thay đổi nào có thể xẩy ra mà không phải gánh chịu rủi ro của việc tiến hành lại toàn bộ giai đoạn thiết kế?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Phạm vi",
+                "correct": false
+            },
+            {
+                "text": "Nhiệm vụ",
+                "correct": false
+            },
+            {
+                "text": "Thiết kế chi tiết",
+                "correct": false
+            },
+            {
+                "text": "Ngày tháng chuyển giao",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "38. Có nhiều phương pháp dùng để giám sát hiệu quả của dự án. Hai phương pháp nào có thể được dùng để giảm sát các thay đổi phạm vị? (Chọn 2)",
+        "type":"multiple",
+        "answers": [
+            {
+                "text": "Phân tích lịch sử biến động lịch trình.",
+                "correct": true
+            },
+            {
+                "text": "Theo dõi giá trị đồng đôla của công việc thêm vào được thực hiện.",
+                "correct": true
+            },
+            {
+                "text": "Phân tích lịch sử biến động chỉ phí.",
+                "correct": false
+            },
+            {
+                "text": "Theo dõi số lượng thay đổi phạm vi.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "39. Chức năng chính của ban quản lý thay đổi là:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Xác định những phạm vi mới của công việc dự án.",
+                "correct": false
+            },
+            {
+                "text": "Duyệt ảnh hưởng của các yêu cầu thay đổi.",
+                "correct": true
+            },
+            {
+                "text": "Đưa ra yêu cầu thay đổi.",
+                "correct": false
+            },
+            {
+                "text": "Trình bày những lợi ích quản lý cao nhất.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "40. Trong suốt quá trình xây dựng dự án đã được phê duyệt, giám đốc dự án nhận thấy rằng phạm vi dự án không được xác định hợp lý, làm tăng lượng kinh phí đáng kể và trễ hạn các phần có thể chuyển giao. Giám đốc dự án yêu cầu một cuộc họp với các đối tượng liên quan dự án để thông báo cho họ về sự chênh lệch phạm vi theo yêu cầu. Giám đốc dự án nên tiếp cận tốt nhất biến động phạm vì cho dự án này như thế nào?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Thông báo cho các đối tượng liên quan dự án về thời gian và kinh phí theo yêu cầu cần để hoàn tất dự án cùng với các minh chứng về mặt tài chính như Phân tích giá trị thu được, ROI (Hoàn trả đầu tư) và biến động lịch trình.",
+                "correct": false
+            },
+            {
+                "text": "Xác định biến động chi phí và lịch trình và đề nghị phê chuẩn những thay đổi theo yêu cầu.",
+                "correct": false
+            },
+            {
+                "text": "Chuẩn bị cấu trúc chi tiết công việc mới chỉ ra thời gian yêu cầu cho việc hoàn tất dự án và kinh phí theo yêu cầu mới.",
+                "correct": false
+            },
+            {
+                "text": "Thông báo cho các đối tượng liên quan dự án về sự thay đổi kinh phí và lịch trình theo yêu cầu, giảm bớt các chi phí phụ với một kế hoạch dự phòng đúng chỗ và nhận được sự phê duyệt bằng văn bản cho những thay đổi yêu cầu.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "41. Khi thẩm quyền phê chuẩn sửa đổi phạm vi được đặt ra, giảm đốc dự án nên:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Ra quyết định dựa trên sơ đồ tổ chức của công ty.",
+                "correct": false
+            },
+            {
+                "text": "Tham khảo kế hoạch dự án thay đổi.",
+                "correct": false
+            },
+            {
+                "text": "Duyệt quy định dự án gốc.",
+                "correct": true
+            },
+            {
+                "text": "Hỏi ý kiến nhà tài trợ dự án.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "42. Trong tình huống nào giám đốc dự án được yêu cầu phải gửi một yêu cầu thay đổi tới nhà tài trợ và các đối tượng liên quan dự án.",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Khi chi phí vượt quả độ biến động cho phép theo kinh phí.",
+                "correct": true
+            },
+            {
+                "text": "Khi không có sự lựa chọn khả thi.",
+                "correct": false
+            },
+            {
+                "text": "Khi khách hàng đồng ý thay đổi.",
+                "correct": false
+            },
+            {
+                "text": "Thời điểm nào đó yêu cầu thay đổi được xét duyệt.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "43. Phạm vi của dự án vượt quá kinh phí bởi vì các mục được mua đắt hơn so với dự liệu ban đầu. Lượng dư thừa này sẽ vượt quá tổng kinh phí cho dự án. Giám đốc dự án nên làm gì?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Điều chỉnh các mục kinh phí để thu hút các chi phí vượt quá.",
+                "correct": false
+            },
+            {
+                "text": "Tiếp cận các đối tượng liên quan dự án để tăng kinh phí.",
+                "correct": true
+            },
+            {
+                "text": "Giảm các chi phí phạm vi để không vượt quả kinh phí.",
+                "correct": false
+            },
+            {
+                "text": "Không thay đổi kinh phí.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "44. Năm ràng buộc nào nên được tính đến trong định nghĩa phạm vi dự án? (Chọn 4)",
+        "type":"multiple",
+        "answers": [
+            {
+                "text": "Ngày kết thúc dự án được xác định rõ.",
+                "correct": true
+            },
+            {
+                "text": "Thủ tục quản lý thay đổi nghiêm ngặt.",
+                "correct": true
+            },
+            {
+                "text": "Phương pháp luận mã hoá chuẩn.",
+                "correct": false
+            },
+            {
+                "text": "Vòng đời \"các hoạt động tốt nhất\" cho loại hình dự án này.",
+                "correct": false
+            },
+            {
+                "text": "Chủ dự án được xác định rõ,",
+                "correct": true
+            },
+            {
+                "text": "Các tiêu chí hoàn tất được xác định rõ.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "45. Tiêu chí nào là quan trọng để nhắc đến trong tài liệu phạm vi?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Hoàn tất.",
+                "correct": true
+            },
+            {
+                "text": "Lịch trình.",
+                "correct": false
+            },
+            {
+                "text": "Chất lượng.",
+                "correct": false
+            },
+            {
+                "text": "Kinh phí.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "46. Giám đốc dự án được khách hàng đề nghị thực hiện những thay đổi quan trọng cho dự án. Những thay đổi này không được chú tâm trong Tài liệu thiết kế thấy Phạm vi dự án. Cách tốt nhất để giám đốc dự án đáp lại yêu cầu là gì?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Triển khai các thay đổi theo yêu cầu ngay lập tức.",
+                "correct": false
+            },
+            {
+                "text": "Thiết kế lại toàn bộ dự án từ vạch xuất phát.",
+                "correct": false
+            },
+            {
+                "text": "Thông báo với khách hàng rằng thay đổi phạm vi là không được phép.",
+                "correct": false
+            },
+            {
+                "text": "Trình yêu cầu thay đổi lên Ban quản lý thay đổi.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "47. Bạn đang xây dựng phạm vi công việc cho một dự án sẽ sử dụng các nguồn lực kỹ thuật giới hạn. Thay đổi đã được một trong số các nguồn lực kỹ thuật yêu cầu để điều chỉnh màn ảnh đầu vào của người dùng. Cá nhân nào phải phê chuẩn yêu cầu này?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Giám đốc dự án.",
+                "correct": false
+            },
+            {
+                "text": "Nhà tài trợ dự án.",
+                "correct": false
+            },
+            {
+                "text": "Lãnh đạo đội xây dựng.",
+                "correct": false
+            },
+            {
+                "text": "Đại diện của những người dùng cuối.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "48. Trước khi bạn nhận được phê duyệt từ các đối tượng liên quan về thay đổi dự án điều chỉnh phạm vi dự án, nên thực hiện ba hoạt động nào? (Chọn 3)",
+        "type":"multiple",
+        "answers": [
+            {
+                "text": "Áp dụng thay đổi phạm vi cuối cùng vào kế hoạch dự án.",
+                "correct": false
+            },
+            {
+                "text": "Phân tích vấn đề kinh phí và ảnh hưởng của chúng.",
+                "correct": true
+            },
+            {
+                "text": "Nghiên cứu các khả năng khác đối với thay đổi phạm vì được đưa ra.",
+                "correct": false
+            },
+            {
+                "text": "Tính toán phạm vi vấn đề biến động lịch trình",
+                "correct": true
+            },
+            {
+                "text": "Phân tích vấn đề kế hoạch dự án và ảnh hưởng của chúng.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "49. Đội dự án đang tiến hành hoàn tất định nghĩa phạm vi và đang trình bày báo cáo phạm vi về những yêu cầu thay đổi của khách hàng và nhà tài trợ. Với vai trò là giám đốc dự án thi phương pháp tiếp cận tốt nhất là gì?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Chấp nhận thay đổi và rời khỏi đó để qua trở lại với bảo cáo phạm vi đã thay đổi.",
+                "correct": false
+            },
+            {
+                "text": "Chỉ ra rằng thời gian chuyển giao cho dự án sẽ được kéo dài.",
+                "correct": false
+            },
+            {
+                "text": "Phác thảo những ảnh hưởng của thay đổi trong việc đáp ứng các mục tiêu của dự án sử dụng các ví dụ minh hoạ thay đổi phạm vị, thời gian và chi phí.",
+                "correct": true
+            },
+            {
+                "text": "Lắng nghe yêu cầu và chỉ ra các nguồn lực thêm vào sẽ được yêu cầu để hoàn tất dự ẩn vào cùng thời hạn.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "50. Thông thường tài liệu được sửa đổi nhiều nhất trong các dự án là gì?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Sổ ghi vấn đề.",
+                "correct": true
+            },
+            {
+                "text": "Sổ ghi yêu cầu thay đổi.",
+                "correct": false
+            },
+            {
+                "text": "Kế hoạch dự án.",
+                "correct": false
+            },
+            {
+                "text": "Tài liệu chấp thuận cuối cùng.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "51. Dự án chậm hơn lịch trình do xung đột giữa các thành viên. Sau khi giải quyết xung đột, để đáp ứng được ngày tháng chuyển giao thì giảm đốc dự án nên xem xét:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Khiển trách về việc chuyển giao muộn trong đội ngũ thành viên.",
+                "correct": false
+            },
+            {
+                "text": "Tối ưu hoá lịch trình.",
+                "correct": false
+            },
+            {
+                "text": "Phân chia lại nguồn lực.",
+                "correct": false
+            },
+            {
+                "text": "Điều chỉnh nguồn lực.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "52. Người điều hành cao cấp của công ty bạn muốn cập nhật lịch trình dự án hàng tháng. Bạn sẽ gửi cái nào sau đây cho người điều hành?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Lược đồ mạng theo tỉ lệ thời gian.",
+                "correct": false
+            },
+            {
+                "text": "Biểu đồ mốc quan trọng.",
+                "correct": true
+            },
+            {
+                "text": "Biểu đồ PERT (Kỹ thuật duyệt và đánh giá chương trình).",
+                "correct": false
+            },
+            {
+                "text": "Lược đồ hoạt động mũi tên.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "53. Xác định và quản lý đường tới hạn là yếu tố sống còn đối với sự thành công của dự án bởi vì:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Tối ưu hoá chỉ phí hay đẩy nhanh chỉ phí trong đường tới hạn cao hơn so với chi phí cho bất kỳ hoạt động dự án khác nào.",
+                "correct": true
+            },
+            {
+                "text": "Các hoạt động trên đường tới hạn không có bất kỳ thời gian khoảng trễ nào.",
+                "correct": false
+            },
+            {
+                "text": "Ngày tháng bắt đầu phải được tính toán bằng cách thực hiện công việc ngược từ kết thúc rồi tới bắt đầu.",
+                "correct": false
+            },
+            {
+                "text": "Bố trí nhân viên lãnh đạo và giá trị sẽ ảnh hưởng tới chất lượng của dự án công việc.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "54. Để rút ngắn thời đoạn dự án, các nguồn lực phải được thêm vào các nhiệm vụ trong đường tới hạn.",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Nhiệm vụ dài nhất còn lại trong kế hoạch.",
+                "correct": false
+            },
+            {
+                "text": "Sự xuất hiện đường tới hạn mới.",
+                "correct": true
+            },
+            {
+                "text": "Các nguồn lực được chỉ định cho các nhiệm vụ khác trên đường tới hạn.",
+                "correct": false
+            },
+            {
+                "text": "Thời gian trẻ trong các đường khác.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "55. Cách thức thích hợp nhất để xác định thời đoạn dự án trước khi thực thì là gì?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Không có cách nào xác định thời đoạn.",
+                "correct": false
+            },
+            {
+                "text": "Giám đốc dự án thực hiện tất cả các ước tính.",
+                "correct": false
+            },
+            {
+                "text": "Kết hợp ước tính của từng cá nhân.",
+                "correct": true
+            },
+            {
+                "text": "Giành được các ước tính chuyên môn.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "56. Cách thức thích hợp nhất để xác định thời đoạn dự án trước khi thực thì là gì?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Giám đốc dự án thực hiện tất cả các ước tính.",
+                "correct": false
+            },
+            {
+                "text": "Không có cách nào xác định thời đoạn.",
+                "correct": false
+            },
+            {
+                "text": "Kết hợp ước tính của từng cá nhân.",
+                "correct": true
+            },
+            {
+                "text": "Giành được các ước tính chuyên môn.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "57. Tại sao giám đốc dự án muốn tăng tốc dự án?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Giám các chi phí dự án.",
+                "correct": false
+            },
+            {
+                "text": "Giảm bớt rủi ro dự án.",
+                "correct": false
+            },
+            {
+                "text": "Rút ngắn thời đoạn dự án.",
+                "correct": true
+            },
+            {
+                "text": "Tăng hiệu suất của đội.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "58. Biểu đồ lịch, lịch trình mốc quan trọng và biểu đồ Gantt là toàn bộ ví dụ minh hoạ cho:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Vai trò của các đối tượng liên quan dự án.",
+                "correct": false
+            },
+            {
+                "text": "Xác định giá trị dự án.",
+                "correct": false
+            },
+            {
+                "text": "Lập lịch trình theo ước tính và trình tự chuỗi công việc.",
+                "correct": true
+            },
+            {
+                "text": "Quản lý rủi ro.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "59. Cách thức thích hợp nhất để xác định thời đoạn dự án trước khi thực thi là gì?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Kết hợp ước tính của từng cá nhân.",
+                "correct": true
+            },
+            {
+                "text": "Giám đốc dự án thực hiện tất cả các ước tính.",
+                "correct": false
+            },
+            {
+                "text": "Giành được các ước tính chuyên môn.",
+                "correct": false
+            },
+            {
+                "text": "Không có cách nào xác định thời đoạn.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "60. Phương pháp nào là cách tiếp cận hiệu quả để xây dựng ước tính thời đoạn nhiệm vụ dự án?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Kỹ thuật giá trị.",
+                "correct": false
+            },
+            {
+                "text": "Ước lượng trên xuống.",
+                "correct": false
+            },
+            {
+                "text": "Ý kiến chuyên gia.",
+                "correct": true
+            },
+            {
+                "text": "Ước lượng ngẫu nhiên.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "61. Nhân tố nào ảnh hưởng lớn nhất tới thời đoạn thực tế của các nhiệm vụ dự án?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Thông tin lịch sử.",
+                "correct": false
+            },
+            {
+                "text": "Chi phí nhiệm vụ.",
+                "correct": false
+            },
+            {
+                "text": "Những người đi trước và người thành công.",
+                "correct": false
+            },
+            {
+                "text": "Khả năng về nguồn lực.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "62. Người điều hành cao cấp của công ty bạn muốn cập nhật lịch trình dự án hàng tháng. Bạn sẽ gửi cái nào sau đây cho người điều hành?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Biểu đồ mốc quan trọng.",
+                "correct": true
+            },
+            {
+                "text": "Lược đồ hoạt động mũi tên.",
+                "correct": false
+            },
+            {
+                "text": "Biểu đồ PERT (Kỹ thuật duyệt và đánh giá chương trình).",
+                "correct": false
+            },
+            {
+                "text": "Lược đồ mạng theo tỉ lệ thời gian.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "63. Năm danh sách được yêu cầu để tạo ra lịch trình dự án là gì? (Chọn 5)",
+        "type":"multiple",
+        "answers": [
+            {
+                "text": "Các phần có thể chuyển giao.",
+                "correct": true
+            },
+            {
+                "text": "Yêu cầu dự án.",
+                "correct": false
+            },
+            {
+                "text": "Thời gian và nguồn lực trên mỗi công việc.",
+                "correct": true
+            },
+            {
+                "text": "Các kỹ năng sẵn có.",
+                "correct": true
+            },
+            {
+                "text": "Các rủi ro dự án chính.",
+                "correct": true
+            },
+            {
+                "text": "Các nhiệm vụ dự án.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "64. Dự án chậm hơn lịch trình do xung đột giữa các thành viên. Sau khi giải quyết xung đội, để đáp ứng được ngày tháng chuyển giao thì giám đốc dự án nên xem xét:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Khiển trách về việc chuyển giao muộn trong đội ngũ thành viên.",
+                "correct": false
+            },
+            {
+                "text": "Điều chỉnh nguồn lực.",
+                "correct": true
+            },
+            {
+                "text": "Phân chia lại nguồn lực.",
+                "correct": false
+            },
+            {
+                "text": "Tối ưu hoá lịch trình.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "65. Mục nào thể hiện mốc quan trọng?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Mua trang thiết bị cơ sở hạ tầng.",
+                "correct": false
+            },
+            {
+                "text": "Tập hợp đội ngũ thành viên.",
+                "correct": false
+            },
+            {
+                "text": "Nhà tài trợ điều hành ký kết hoàn tất các yêu cầu.",
+                "correct": false
+            },
+            {
+                "text": "Phần mềm đã hoàn tất việc kiểm thử chấp thuận người dùng.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "66. Việc giải quyết khuyết điểm diễn ra khi nào trong vòng đời dự án?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Trước mỗi mốc quan trọng.",
+                "correct": false
+            },
+            {
+                "text": "Ngay khi khuyết điểm được tìm ra.",
+                "correct": false
+            },
+            {
+                "text": "Sau cuộc kiểm thử chấp thuận sản phẩm diễn ra.",
+                "correct": false
+            },
+            {
+                "text": "Bất kỳ thời điểm nào trong suốt vòng đời dự án trước khi chuyển giao như đã được xác định trong kế hoạch dự án.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "67. Điều chỉnh lịch trình nhiệm vụ để triển khai nguồn nhân lực hiệu quả hơn được gọi là:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Tối ưu hoá nguồn lực,",
+                "correct": false
+            },
+            {
+                "text": "Điều chỉnh nguồn lực.",
+                "correct": true
+            },
+            {
+                "text": "Tải nguồn lực.",
+                "correct": false
+            },
+            {
+                "text": "Tăng tốc nguồn lực.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "68. Trong một dự án thì thông thường chất lượng nên là của:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Ưu tiên chỉ phí và lịch trình bằng nhau.",
+                "correct": true
+            },
+            {
+                "text": "Ưu tiên lịch trình bằng nhau nhưng ưu tiên cao hơn chi phí.",
+                "correct": false
+            },
+            {
+                "text": "Ưu tiên chỉ phí bằng nhau nhưng ưu tiên cao hơn lịch trình.",
+                "correct": false
+            },
+            {
+                "text": "Ưu tiên cao hơn chi phí và lịch trình.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "69. Điều quan trọng để giám đốc dự án truyền đạt các thay đổi chính trong dự án cho các nhà tài trợ dự án duyệt và phê chuẩn bởi vì truyền thông này.....",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Tạo điều kiện thuận lợi tăng cường phối hợp giữa các đội ngũ thành viên.",
+                "correct": false
+            },
+            {
+                "text": "Đưa ra cơ chế nhằm quản lý các mức độ kỳ vọng của nhà tài trợ dự án.",
+                "correct": false
+            },
+            {
+                "text": "Cung cấp thông tin biển động cho nhà tài trợ dự án.",
+                "correct": true
+            },
+            {
+                "text": "Tạo điều kiện thuận lợi cho quy trình lập kế hoạch nguồn lực,",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "70. Phát biểu nào mô tả cơ sở thực tế để xác lập và dự liệu mục tiêu dự án?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Hoàn tất giai đoạn phân tích hệ thống xác định nhiều yêu cầu hơn so với mong đợi ban đầu, không nên gây ra một số thay đổi tới kinh phí dự án.",
+                "correct": false
+            },
+            {
+                "text": "Mốc quan trọng là mục tiêu được xác lập lại bất cứ khi nào đường tới hạn dự án thay đổi.",
+                "correct": false
+            },
+            {
+                "text": "Các mốc quan trọng được xác lập trong kế hoạch và không nên xê dịch.",
+                "correct": false
+            },
+            {
+                "text": "Dự án nên được lập kế hoạch tỉnh đến các điểm quyết định làm hay không làm dựa vào và bắt đầu bằng việc hoàn tất các kết quả chuyển giao chính.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "71. Nhân tố nào có ảnh hưởng lớn nhất tới chi phí lao động theo ước tính trên đơn vị cho đự án.",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Thông tin lịch sử",
+                "correct": false
+            },
+            {
+                "text": "Các yêu cầu mức độ kỹ năng nguồn nhân lực.",
+                "correct": true
+            },
+            {
+                "text": "Sử dụng các nhà cung cấp bên ngoài.",
+                "correct": false
+            },
+            {
+                "text": "Các quy trình kiểm soát thay đổi.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "72. Phần nào của tài liệu lập kế hoạch dự án được dùng để kiểm soát bùng phát phạm vi?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Số lượng đội ngũ thành viên.",
+                "correct": false
+            },
+            {
+                "text": "Quy trình quản lý chưa được giải quyết.",
+                "correct": false
+            },
+            {
+                "text": "Chất lượng của các phần có thể chuyển giao.",
+                "correct": true
+            },
+            {
+                "text": "Những hạn chế về kinh phí.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "73. Giám đốc dự án công nghệ thông tin thông báo biến động lịch trình vào một trong số các kết quả chuyển giao của dự án. BCWP (Chi phí dự toán của việc đã thực hiện) là 7.000$, ACWP (Chi phí thực của việc đã thực hiện) là 9.000$ và BCWS (Chi phí dự toán của việc đã xếp lịch) là 11.0005 cho một tuần. Dựa vào toàn bộ số lượng này thì dự án:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Trước lịch trình khoảng 2.000$ cho một tuần.",
+                "correct": false
+            },
+            {
+                "text": "Sau lịch trình khoảng 4.000$ cho một tuần.",
+                "correct": false
+            },
+            {
+                "text": "Sau lịch trình khoảng 2.000$ cho một tuần.",
+                "correct": false
+            },
+            {
+                "text": "Trước lịch trình khoảng 4.000$ cho một tuần.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "74. Điều quan trọng để giám đốc dự án truyền đạt các thay đổi chính trong dự án cho các nhà tài trợ dự án duyệt và phê chuẩn bởi vì truyền thông này.......",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Cung cấp thông tin biến động c cho nhà tài trợ dự án.",
+                "correct": true
+            },
+            {
+                "text": "Đưa ra cơ chế nhằm quản lý các mức độ kỳ vọng của nhà tài trợ dự án.",
+                "correct": false
+            },
+            {
+                "text": "Tạo điều kiện thuận lợi cho quy trình lập kế hoạch nguồn lực.",
+                "correct": false
+            },
+            {
+                "text": "Tạo điều kiện thuận lợi tăng cường phối hợp giữa các đội ngũ thành viên.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "75. Điều gì sau đây cần để xây dựng một ước tính chi phí dự án chi tiết",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Quy định dự án",
+                "correct": false
+            },
+            {
+                "text": "Kế hoạch quản lý",
+                "correct": false
+            },
+            {
+                "text": "Các yêu cầu nguồn lực",
+                "correct": true
+            },
+            {
+                "text": "Kế hoạch chỉ phí",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "76. Chi phí thuê phòng sẽ được dùng cho cuộc họp dự án là ví dụ minh hoạ cho loại chi phí nào?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Chi phí cố định",
+                "correct": true
+            },
+            {
+                "text": "Chi phí không được dự kiến",
+                "correct": false
+            },
+            {
+                "text": "Chi phí tất yêu",
+                "correct": false
+            },
+            {
+                "text": "Chi phí biến động",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "77. Phát biểu nào sau đây mô tả tốt nhất ước lượng dưới lên?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Đó là phương pháp đơn giản nhất để ước tính chi phí trong một dự án với nhiều điểm tương đồng với các dự án thành công khác.",
+                "correct": false
+            },
+            {
+                "text": "Nó đòi hỏi người lập kế hoạch phải sử dụng càng nhiều chi tiết càng tốt nhằm phân chia dự án thành các gói công việc đủ nhỏ để cho phép ước tính chỉ phí chính xác.",
+                "correct": true
+            },
+            {
+                "text": "Nó có thể được mô tả bề ngoài trong Kỹ thuật duyệt và đánh giá chương trình hoặc sơ đồ Gantt.",
+                "correct": false
+            },
+            {
+                "text": "Nó đòi hỏi một hoạt động hay sự kiện riêng lẻ có sự phụ thuộc lẫn nhau đối với người tiền nhiệm, người thành công cũng như các hoạt động hay sự kiện song song.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "78. Tại sao việc điều hoà chi phí cho các nhiệm vụ dự án theo ước tính so với chi phí thực lại đóng vai trò quan trọng?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Đó là một công cụ quản lý chất lượng.",
+                "correct": false
+            },
+            {
+                "text": "Nó tạo điều kiện thuận lợi cho việc lưu trữ thông tin lịch sử cho sơ đồ kế toán,",
+                "correct": false
+            },
+            {
+                "text": "Đó là phần phân tích biển động chỉ phí chủ yếu.",
+                "correct": true
+            },
+            {
+                "text": "Nó cung cấp nguồn vào chủ yêu cho quy trình lập kế hoạch thu mua.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "79. Hai kết quả có thể xẩy ra đối với kế hoạch dự án khi kinh phí bắt buộc được xác lập thấp là gì? (Chọn hai đáp án)",
+        "type":"multiple",
+        "answers": [
+            {
+                "text": "Lịch trình dự án giảm xuống.",
+                "correct": false
+            },
+            {
+                "text": "Lịch trình dự án tăng lên.",
+                "correct": false
+            },
+            {
+                "text": "Chất lượng dự án giảm xuống.",
+                "correct": true
+            },
+            {
+                "text": "Dự án bị huỷ bỏ.",
+                "correct": false
+            },
+            {
+                "text": "Tính năng dự án giảm xuống.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "80. Tỉ lệ chỉ phí dự toán của việc đã thực hiện với chi phí dự toán của việc đã xếp lịch (BCWP/BCWS) được gọi là:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Hiệu suất lịch trình (SPI).",
+                "correct": true
+            },
+            {
+                "text": "Hiệu suất chỉ phí (CPI).",
+                "correct": false
+            },
+            {
+                "text": "Tỉ lệ đường tới hạn (CR).",
+                "correct": false
+            },
+            {
+                "text": "Biến động chi phí (CV)",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "81. Có nhiều phương pháp dùng để giám sát hiệu quả của dự án. Hai phương pháp nào có thể được dùng để giảm sát các thay đổi phạm vi (Chọn 2)",
+        "type":"multiple",
+        "answers": [
+            {
+                "text": "Phân tích lịch sử biển động chỉ phí.",
+                "correct": false
+            },
+            {
+                "text": "Theo dõi giá trị đồng đôla của công việc thêm vào được thực hiện.",
+                "correct": true
+            },
+            {
+                "text": "Theo dõi số lượng thay đổi phạm vi,",
+                "correct": false
+            },
+            {
+                "text": "Phân tích lịch sử biến động lịch trình.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "82. Tại sao việc điều hoà chi phí cho các nhiệm vụ dự án theo ước tính so với chi phí thực lại đóng vai trò quan trọng?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Đó là phần phân tích biển động chỉ phí chủ yếu.",
+                "correct": true
+            },
+            {
+                "text": "Nó cung cấp nguồn vào chủ yếu cho quy trình lập kế hoạch thu mua.",
+                "correct": false
+            },
+            {
+                "text": "Đó là một công cụ quản lý chất lượng.",
+                "correct": false
+            },
+            {
+                "text": "Nó tạo điều kiện thuận lợi cho việc lưu trữ thông tin lịch sử cho sơ đồ kế toán.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "83. Trong các ước lượng dưới đây, ước lượng nào phản ánh chính xác nhất chi phí thực của dự án.",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Phân bổ ngân sách.",
+                "correct": false
+            },
+            {
+                "text": "Kinh phí.",
+                "correct": false
+            },
+            {
+                "text": "Trên xuống.",
+                "correct": false
+            },
+            {
+                "text": "Dưới lên.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "84. Nhà tài trợ dự án đề nghị bạn chuẩn bị một ước tính chi phí cho dự án viễn thông. Có một lượng thông tin phạm vi chi tiết bị hạn chế. Tuy nhiên dự án tương tự như dự án đã được công ty bạn hoàn tất cách đây hai năm. Bạn nên sử dụng kỹ thuật ước lượng nào trong tình huống này?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Lập mô hình theo tham số.",
+                "correct": false
+            },
+            {
+                "text": "Ước lượng ngẫu nhiên.",
+                "correct": false
+            },
+            {
+                "text": "Ước lượng tương tự.",
+                "correct": true
+            },
+            {
+                "text": "Ước lượng dưới lên.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "85. Hai thành phần nào nên viết từ phần chuẩn từ nhà tài trợ dự án? (Chọn 2)",
+        "type":"multiple",
+        "answers": [
+            {
+                "text": "Dạng đề xuất dự án.",
+                "correct": false
+            },
+            {
+                "text": "Các thành phần có thể chuyển giao cấu dự án.",
+                "correct": true
+            },
+            {
+                "text": "Kinh phí dự án.",
+                "correct": true
+            },
+            {
+                "text": "Công cụ sắp xếp lịch trình dự án.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "86. Trong tình huống nào giám đốc dự án được yêu cầu phải gửi một yêu cầu thay đổi tới nhà tài trợ và các đối tượng liên quan dự án.",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Khi khách hàng đồng ý thay đổi.",
+                "correct": false
+            },
+            {
+                "text": "Khi chi phí vượt quá độ biến động cho phép theo kinh phí.",
+                "correct": true
+            },
+            {
+                "text": "Thời điểm nào đó yêu cầu thay đổi được xét duyệt.",
+                "correct": false
+            },
+            {
+                "text": "Khi không có sự lựa chọn khả thi.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "87. Trong khi tiến hành duyệt dự án hàng tuần, bạn nhận thấy rằng dự án đã chỉ tiêu quá khả năng. Bạn nên làm gì để xác định phạm vi ứng chỉ tiêu nhiều hơn so với kinh phí dự toán?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Tính toán tổng chi phí dự án (TCP).",
+                "correct": false
+            },
+            {
+                "text": "Tính toán biến động chi phí (CV) cho từng phạm vi.",
+                "correct": true
+            },
+            {
+                "text": "Tính toán biến động lịch trình (SV) cho từng phạm vi.",
+                "correct": false
+            },
+            {
+                "text": "Kiểm tra biểu đồ Gantt và so sánh tiến trình của từng nhiệm vụ.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "88. Bạn tiếp quản một dự án đang được tiến hành khoảng ba tháng. Giám đốc dự án trước yêu cầu đội dự án cung cấp các ước tính hàng tuần trong tiến trình thực hiện. Kế hoạch dự án chỉ ra 5 giai đoạn và 1.000 nhiệm vụ. Giai đoạn đầu tiên đã kết thúc và có 800 nhiệm vụ chưa hoàn thành. Trong số 800 nhiệm vụ chưa hoàn thành thì có 200 nhiệm vụ đã hoàn thành 50%. Phát biểu nào về trạng thái dự án là đúng?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Các ước tính nỗ lực còn lại và dữ liệu hoàn tất dự định cần được tập hợp để có ước tỉnh chính xác về trạng thái dự án.",
+                "correct": true
+            },
+            {
+                "text": "Dự án hoàn tất khoảng 20%.",
+                "correct": false
+            },
+            {
+                "text": "Dự án hoàn tất khoảng 25%.",
+                "correct": false
+            },
+            {
+                "text": "Dự án hoàn tất khoảng 30%.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "89. Báo cáo về phương pháp ước lượng nào là đúng?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Ước lượng ý kiến chuyên gia bị hạn chế đối với kỹ thuật ổn định.",
+                "correct": false
+            },
+            {
+                "text": "Ước lượng kỹ thuật cần thiết khi dữ liệu không đầy đủ, các mối quan hệ không được biết hoặc thiếu định nghĩa về sản phẩm.",
+                "correct": false
+            },
+            {
+                "text": "Ước lượng tương tự hệ thống phụ vốn đã chính xác hơn các phương pháp khác.",
+                "correct": false
+            },
+            {
+                "text": "Ước lượng theo tham số tương đối đơn giản và ít tốn kém để xây dựng.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "90. Báo cáo về phương pháp ước lượng nào là đúng?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Ước lượng kỹ thuật cần thiết khi dữ liệu không đầy đủ, các mối quan hệ không được biết hoặc thiếu định nghĩa về sản phẩm.",
+                "correct": false
+            },
+            {
+                "text": "Ước lượng theo tham số tương đối đơn giản và ít tốn kém để xây dựng.",
+                "correct": true
+            },
+            {
+                "text": "Ước lượng ý kiến chuyên gia bị hạn chế đối với kỹ thuật ổn định.",
+                "correct": false
+            },
+            {
+                "text": "Ước lượng tương tự hệ thống phụ vốn đã chính xác hơn các phương pháp khác.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "91. Phương pháp tiếp cận để cải thiện chất lượng nào sau đây có khả năng tạo ra các kết quả tích cực ít nhất?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Quy trình cấp chứng chỉ ISO 9000.",
+                "correct": false
+            },
+            {
+                "text": "Cải thiện liên tục.",
+                "correct": false
+            },
+            {
+                "text": "Quản lý chất lượng thống kê.",
+                "correct": false
+            },
+            {
+                "text": "Tăng cường kiểm tra xem xét.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "92. Việc giải quyết khuyết điểm diễn ra khi nào trong vòng đời dự án?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Ngay khi khuyết điểm được tìm ra.",
+                "correct": false
+            },
+            {
+                "text": "Bất kỳ thời điểm nào trong suốt vòng đời dự án trước khi chuyển giao như đã được xác định trong kế hoạch dự án.",
+                "correct": true
+            },
+            {
+                "text": "Sau cuộc kiểm thử chấp thuận sản phẩm diễn ra.",
+                "correct": false
+            },
+            {
+                "text": "Trước mỗi mốc quan trọng.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "93. Một trong những người phát triển trong dự án của bạn bất đồng với các chuẩn phát triển hợp nhất hiện tại và tin tưởng rằng phương pháp tiếp cận nhiệm vụ khác tốt hơn. Bạn không có chuyên môn kỹ thuật để đưa ra ý kiến có giá trị về việc liệu người phát triển có phương pháp tiếp cận tốt hơn hay không. Bạn nên làm gì?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Tổ chức cuộc họp của người phát triển đội dự án để cho phép đội xác định liệu cách tiếp cận mới được giới thiệu có nên được chấp nhận đối với dự án hay không.",
+                "correct": false
+            },
+            {
+                "text": "Nói với người phát triển rằng tham gia các chuẩn là điều bắt buộc và do đó các chuẩn hợp nhất phải được tuân theo.",
+                "correct": false
+            },
+            {
+                "text": "Cho phép người phát triển triển khai gợi ý về phương pháp tiếp cận mới được đề xuất.",
+                "correct": false
+            },
+            {
+                "text": "Gặp mặt với người chịu trách nhiệm về các chuẩn phát triển hợp nhất và với các chuyên gia về nội dung chuyên ngành để đạt được quyết định thay đổi chuẩn hoặc đạt được sự miễn chuẩn cho dự án.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "94. Khi nào thì đánh giá chất lượng của phần có thể chuyển giao dự án được xác định?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Ngay lập tức trước khi xây dựng phần có thể chuyển giao.",
+                "correct": false
+            },
+            {
+                "text": "Sau khi phần có thể chuyển giao được xây dựng.",
+                "correct": false
+            },
+            {
+                "text": "Trong quá trình kiểm thử phần có thể chuyên gia.",
+                "correct": false
+            },
+            {
+                "text": "Trong khi xác định yêu cầu của phần có thể chuyển giao",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "95. Nhà tài trợ dự án muốn bạn xây dựng và triển khai các kỹ thuật quản lý chất lượng để đảm bảo chuyển tiếp dự án suôn sẻ sang giai đoạn triển khai. Hai kỹ thuật quản lý chất lượng mà bạn có thể triển khai là gì? (Chọn 2)",
+        "type":"multiple",
+        "answers": [
+            {
+                "text": "Nhiều đội làm việc với ít thành viên để tăng tới mức tối đa số lượng các kết quả có thể chuyển giao.",
+                "correct": false
+            },
+            {
+                "text": "Duyệt các kết quả chuyển giao dự án như nhau.",
+                "correct": false
+            },
+            {
+                "text": "Các tiêu chí vào và ra linh hoạt để giảm tới mức tối thiểu sự chậm trễ về lịch trình.",
+                "correct": true
+            },
+            {
+                "text": "Quyền sở hữu phần có thể chuyển giao rõ ràng.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "96. Một trong các quy trình nào sau đây là quan trọng nhất để đáp ứng các mục tiêu quản lý chất lượng?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Phân tích xu hướng.",
+                "correct": false
+            },
+            {
+                "text": "Xem xét kỹ lưỡng.",
+                "correct": false
+            },
+            {
+                "text": "Lập kế hoạch.",
+                "correct": true
+            },
+            {
+                "text": "Kiểm định chất lượng.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "97. Một giám đốc dự án công nghệ thông tin được lựa chọn cho dự án gói phần mềm với một thời hạn cuối cùng và các yêu cầu chất lượng cụ thể. Khách hàng nhấn mạnh một vài lần xem chất lượng phần mềm quan trọng như thế nào và họ đã giới hạn nhân viên hỗ trợ kỹ thuật. Giám đốc dự án công nghệ thông tin nhận thấy rằng chất lượng là vô cùng quan trọng. Hoạt động cơ bản nào của cơ cấu có thể được triển khai để đảm bảo rằng chất lượng chắc chắn đạt được nhất?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Tiến hành các hoạt động xoay quanh chất lượng",
+                "correct": false
+            },
+            {
+                "text": "Cố gắng để thực hiện công việc tốt nhất có thể.",
+                "correct": false
+            },
+            {
+                "text": "Lập kế hoạch thành dự án.",
+                "correct": true
+            },
+            {
+                "text": "Xây dựng cơ cấu cẩn thận để kiểm tra chất lượng.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "98. Bạn nhận được hoá đơn từ nhà thầu của mình trong hợp đồng giá cố định với lịch trình phải trả gắn liền với việc hoàn tất các mốc quan trọng. Điều gì là quan trọng nhất để duyệt.",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Công việc đã được hoàn tất.",
+                "correct": true
+            },
+            {
+                "text": "Các hoạt động đang tiếp diễn.",
+                "correct": false
+            },
+            {
+                "text": "Số giờ đã dùng hết.",
+                "correct": false
+            },
+            {
+                "text": "Theo đúng lịch trình.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "99. Tại sao ký kết hoàn tất người sử dụng là một phần của kế hoạch quản lý chất lượng?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Để đảm bảo rằng người sử dụng không đệ trình yêu cầu thay đổi muộn trong dự án.",
+                "correct": false
+            },
+            {
+                "text": "Để đảm bảo rằng dự án tuân theo mong muốn của người sử dụng bởi vì nó liên quan tới chất lượng sản phẩm.",
+                "correct": true
+            },
+            {
+                "text": "Để đảm bảo rằng dự án tuân theo mong muốn về ràng buộc kinh phí của người sử",
+                "correct": false
+            },
+            {
+                "text": "Ký kết hoàn tất người sử dụng không phải là một phần của kế hoạch quản lý chất lượng.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "100. Phát biểu nào về kiểm thử chấp thuận người dùng là đúng?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Kiểm thử người dùng nên chứng tỏ rằng hệ thống vận hành các yêu cầu đã được xác định.",
+                "correct": true
+            },
+            {
+                "text": "Kiểm thử người dùng tạo cơ hội tốt để nhận biết các sai sót trong mã đã được xây dựng.",
+                "correct": false
+            },
+            {
+                "text": "Kiểm thử người dùng nên được thực hiện như một phần của giai đoạn đào tạo triển",
+                "correct": false
+            },
+            {
+                "text": "Kiểm thử người dùng tạo cơ hội cho người dùng cải thiện nhu cầu của họ.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "101. Hai giai đoạn nào của dự án là có khả năng nhất nhằm đỏi hỏi hoàn tất tỉnh lặp đi lặp lại của các nhiệm vụ? (Chọn 2)",
+        "type":"multiple",
+        "answers": [
+            {
+                "text": "Khởi tạo dự án.",
+                "correct": true
+            },
+            {
+                "text": "Kiểm thử đơn vị.",
+                "correct": false
+            },
+            {
+                "text": "Tích hợp hệ thống",
+                "correct": false
+            },
+            {
+                "text": "Kiểm thử chấp thuận người dùng.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "102. Các kế hoạch bảo đảm chất lượng phải bao gồm:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Quyết định mở rộng và nói lông các phần của hệ thống có thể được sử dụng cho các hệ thống khác.",
+                "correct": false
+            },
+            {
+                "text": "Phân tích về kiến trúc hệ thống, thiết kế và đường triển khai cho từng yêu cầu.",
+                "correct": false
+            },
+            {
+                "text": "Các hoạt động theo đội lỗi, kiểm tra đơn vị, đánh giá kỹ thuật, kiểm tra tích hợp và kiểm tra hệ thống.",
+                "correct": true
+            },
+            {
+                "text": "Quản lý về thay đổi trong các yêu cầu, kiến trúc, thiết kế và mãi nguồn.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "103. Hai giai đoạn nào của dự án là có khả năng nhất nhằm đòi hỏi hoàn tất tỉnh lặp đi lặp lại của các nhiệm vụ? (Chọn 2)",
+        "type":"multiple",
+        "answers": [
+            {
+                "text": "Thiết kế h hệ thống.",
+                "correct": false
+            },
+            {
+                "text": "Tích hợp hệ thống.",
+                "correct": false
+            },
+            {
+                "text": "Kiểm thử chấp thuận người dùng.",
+                "correct": true
+            },
+            {
+                "text": "Kiểm thử đơn vị.",
+                "correct": false
+            },
+            {
+                "text": "Phân tích hệ thống",
+                "correct": false
+            },
+            {
+                "text": "Khởi tạo dự án.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "104. Đánh giá điểm kiểm soát trong kế hoạch dự án chỉ ra:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Các quyết định đi hay không đi",
+                "correct": true
+            },
+            {
+                "text": "Báo cáo trạng thái đến kỳ hạn",
+                "correct": false
+            },
+            {
+                "text": "Cuộc họp kiểm soát thay đổi",
+                "correct": false
+            },
+            {
+                "text": "Ngày tháng cho người sử dụng ký kết hoàn tất theo kế hoạch",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "105. Phát biểu nào về kiểm thử chấp thuận người dùng là đúng?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Kiểm thử người dùng nên chứng tỏ rằng hệ thống vận hành các yêu cầu đã được xác định.",
+                "correct": true
+            },
+            {
+                "text": "Kiểm thử người dùng tạo cơ hội cho người dùng cải thiện nhu cầu của họ.",
+                "correct": false
+            },
+            {
+                "text": "Kiểm thử người dùng tạo cơ hội tốt để nhận biết các sai sót trong mã đã được xây dựng.",
+                "correct": false
+            },
+            {
+                "text": "Kiểm thử người dùng nên được thực hiện như một phần của giai đoạn đào tạo triển khai hệ thống.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "106. “Chi phí chất lượng\" là một khái niệm quản lý dự án bao gồm chi phí:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Các yêu cầu quản lý chất lượng.",
+                "correct": false
+            },
+            {
+                "text": "Đảm bảo tính phù hợp cho các yêu cầu",
+                "correct": true
+            },
+            {
+                "text": "Vượt quá yêu cầu.",
+                "correct": false
+            },
+            {
+                "text": "Thay đổi đối với yêu cầu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "107. Hai kết quả có thể xẩy ra đối với kế hoạch dự án khi kinh phí bắt buộc được xác lập thấp là gì? (Chọn hai đáp án)",
+        "type":"multiple",
+        "answers": [
+            {
+                "text": "Chất lượng dự án giảm xuống.",
+                "correct": true
+            },
+            {
+                "text": "Lịch trình dự án tăng lên.",
+                "correct": false
+            },
+            {
+                "text": "Dự án bị huỷ bỏ.",
+                "correct": false
+            },
+            {
+                "text": "Lịch trình dự án giảm xuống.",
+                "correct": false
+            },
+            {
+                "text":"Tính năng dự án giảm xuống.",
+                "correct":true
+            }
+        ]
+    },
+    {
+        "question": "108. Giám đốc dự án phần mềm kế toán mới đã được thông báo trong suốt giai đoạn triển khai rằng phần mềm có xu hướng hỏng hóc. Đây là dấu hiệu của chất lượng xấu trong:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Quản lý.",
+                "correct": false
+            },
+            {
+                "text": "Kiểm thử.",
+                "correct": true
+            },
+            {
+                "text": "Thiết kế.",
+                "correct": false
+            },
+            {
+                "text": "Khái niệm.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "109. Chức năng nòng cốt của giám đốc dự án là gì?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Tích hợp dự án",
+                "correct": true
+            },
+            {
+                "text": "Thiết kế hệ thống",
+                "correct": false
+            },
+            {
+                "text": "Đảm bảo chất lượng",
+                "correct": false
+            },
+            {
+                "text": "Giao diện khách",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "110. Đội dự án gần đi tới phần cuối cùng của việc xây dựng và sẵn sàng kiểm thử toàn bộ ứng dụng. Họ sẽ thực hiện loại hình kiểm thử nào?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Hệ thống.",
+                "correct": true
+            },
+            {
+                "text": "UAT (Kiểm thử chấp thuận người sử dụng).",
+                "correct": false
+            },
+            {
+                "text": "Đơn vị.",
+                "correct": false
+            },
+            {
+                "text": "Mođun",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "111. Trong quá trình triển khai nghiệp vụ điện tử, giám đốc dự án thông báo rằng các đội ngũ thành viên khác nhau không làm việc cùng nhau tốt. Vì thế nên dự án phải chịu sự trì hoãn rất lâu. Giám đốc dự án nên làm gì?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Xác định lại vai trò và trách nhiệm của đội ngũ thành viên.",
+                "correct": false
+            },
+            {
+                "text": "Thúc đẩy các đội ngũ thành viên hợp tác.",
+                "correct": true
+            },
+            {
+                "text": "Ngồi với các đội ngũ thành viên liên quan để thảo luận sự ảnh hưởng lẫn nhau giữa họ.",
+                "correct": false
+            },
+            {
+                "text": "Thưởng cho các đội ngũ thành viên làm việc cùng nhau tốt.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "112. Ai có trách nhiệm chuẩn bị báo cáo đánh giá sau triển khai?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Nhà tài trợ.",
+                "correct": false
+            },
+            {
+                "text": "Giám đốc dự án.",
+                "correct": true
+            },
+            {
+                "text": "Kỹ sư cao cấp.",
+                "correct": false
+            },
+            {
+                "text": "Người sử dụng.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "113. Những vấn đề còn tồn tại lâu dài đã bắt đầu đỉnh líu và ảnh hưởng tới nhiều người, do đó tạo ra nhiều sự phụ thuộc. Giám đốc dự án tốt nhất nên xử lý tình huống này như thế nào?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Tách vấn đề thành những vấn đề nhỏ theo lôgíc.",
+                "correct": true
+            },
+            {
+                "text": "Đưa nó cho quản lý cấp cao hơn.",
+                "correct": false
+            },
+            {
+                "text": "Đặt cơ sở lịch trình dự án.",
+                "correct": false
+            },
+            {
+                "text": "Thực hiện quản lý rủi ro.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "114. Giám đốc dự án đang xây dựng kế hoạch cho dự án. Giám đốc dự án đã xác định các nhiệm vụ và chỉ định nguồn lực thích hợp. Công cụ được sử dụng thông báo rằng một vài nguồn lực được phân bố xong. Bước tiếp theo của giám đốc dự án sẽ là gì?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Di chuyển các nguồn lực.",
+                "correct": false
+            },
+            {
+                "text": "Điều chỉnh nguồn lực.",
+                "correct": true
+            },
+            {
+                "text": "Yêu cầu thêm nguồn lực.",
+                "correct": false
+            },
+            {
+                "text": "Dự thảo ngân sách ngoài giờ.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "115. Vai trò của giám đốc đường lối trong kế hoạch dự án là gì?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Cung cấp nguồn lực cho dự án.",
+                "correct": true
+            },
+            {
+                "text": "Đề nghị những thay đổi yêu cầu.",
+                "correct": false
+            },
+            {
+                "text": "Giải quyết các xung đột trong đội.",
+                "correct": false
+            },
+            {
+                "text": "Kiểm soát kinh phí dự án.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "116. Mặc dù những thay đổi nhỏ có thể được hút vào trong dự án mà không cần điều chỉnh phạm vi nhưng tổ chức nào sau đây nên chú trọng tới những thay đổi quan trọng đối với phạm vi?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Giám đốc chất lượng.",
+                "correct": false
+            },
+            {
+                "text": "Ban quản lý thay đổi.",
+                "correct": true
+            },
+            {
+                "text": "Giám đốc chức năng.",
+                "correct": false
+            },
+            {
+                "text": "Nhà quản lý hợp đồng.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "117. Trong số tất cả các xung đột có thể xẩy ra trong dự án thì xung đột nào là bất lợi nhất đối với kết quả và hiệu suất của đội?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Xung đột lịch trình.",
+                "correct": false
+            },
+            {
+                "text": "Các xung đột trong hội đồng.",
+                "correct": true
+            },
+            {
+                "text": "Các thỏa hiệp về kỹ thuật",
+                "correct": false
+            },
+            {
+                "text": "Những mâu thuẫn cá nhân",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "118. Giám đốc dự án công nghệ thông tin được chuyển giao quy định dự án và tài liệu phạm vi phác hoạ mọi khía cạnh của dự án mới đã được công ty phê chuẩn. Giám đốc dự án công nghệ thông tin mang tài liệu này tới cuộc họp bắt đầu dự án. Trong những lựa chọn dưới đây, hãy chọn ra lựa chọn tốt nhất xem ai nên nhận tài liệu này.",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Đội dự án và các nhà tài trợ.",
+                "correct": false
+            },
+            {
+                "text": "Các đối tượng liên quan dự án và đội dự án.",
+                "correct": true
+            },
+            {
+                "text": "Đội dự án và khách hàng.",
+                "correct": false
+            },
+            {
+                "text": "Văn phòng dự án và đội dự án.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "119. Ma trận gán trách nhiệm là công cụ quản lý dự án dùng để:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Mô tả cấu trúc tổ chức của dự án.",
+                "correct": false
+            },
+            {
+                "text": "Xây dựng cấu trúc chi tiết công việc dựa vào nguồn lực sẵn có.",
+                "correct": false
+            },
+            {
+                "text": "Xác lập tính giá trị của các thành viên dự án để thực hiện công việc trong dự án.",
+                "correct": false
+            },
+            {
+                "text": "Bảo đảm đội ngũ thành viên hiểu được vai trò cụ thể của họ.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "120. Ai có trách nhiệm chuẩn bị báo cáo đánh giá sau triển khai?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Kỹ sư cao cấp.",
+                "correct": false
+            },
+            {
+                "text": "Người sử dụng.",
+                "correct": false
+            },
+            {
+                "text": "Nhà tài trợ.",
+                "correct": false
+            },
+            {
+                "text": "Giám đốc dự án.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "121. Trong cấu trúc tổ chức nào sau đây, giám đốc dự án có quyền lực ít nhất?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Tổ chức ma trận yếu.",
+                "correct": true
+            },
+            {
+                "text": "Tổ chức theo chức năng.",
+                "correct": false
+            },
+            {
+                "text": "Tổ chức dự án.",
+                "correct": false
+            },
+            {
+                "text": "Tổ chức ma trận mạng.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "122. Giám đốc công nghệ thông tin gửi cho kỹ sư mạng trong đội dự án ma trận của anh ta một bức thư điện tử yêu cầu anh ta chuẩn bị báo cáo kỹ thuật chi tiết cho theo một số chỉ dẫn được đưa ra trong thư điện tử. Một tuần sau, giám đốc bộ phận của kỹ sư mạng đến chỗ giám đốc dự án để phản nàn rằng kỹ sư phải mất 45 giờ để chuẩn bị một bản báo cáo dài 80 trang. Giám đốc dự án trình bày sơ qua là anh ta nghĩ bản báo cáo sẽ chỉ dài 4 trang. Vấn đề chính có thể gây ra xung đột này là gì?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Thiếu những chỉ dẫn được xác định trong thư điện tử tạo ra công việc ngoài phạm vi.",
+                "correct": true
+            },
+            {
+                "text": "Theo sự phân bổ nguồn lực đối với kỹ sư mạng.",
+                "correct": false
+            },
+            {
+                "text": "Lãnh đạo bộ phận của kỹ sư mạng phân bổ theo thời gian kỹ sư mạng cần để hoàn tất nhiệm vụ đã định.",
+                "correct": false
+            },
+            {
+                "text": "Thiếu chuyên môn với tư cách là kỹ sư mạng trong việc chuẩn bị tài liệu kỹ thuật.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "123. Phương pháp hiệu quả nhất trong việc xây dựng đội dự án trong tổ chức ma trận là tuân theo:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Kế hoạch phát triển đào tạo,",
+                "correct": false
+            },
+            {
+                "text": "Kế hoạch quản lý đội ngũ.",
+                "correct": true
+            },
+            {
+                "text": "Kế hoạch quản lý thay đổi phạm vì.",
+                "correct": false
+            },
+            {
+                "text": "Kế hoạch truyền thông.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "124. Lựa chọn đội ngũ thành viên đúng (hay sai) có thể ảnh hướng đến tỉnh thần, thời gian cũng như chất lượng. Dựa vào những trích dẫn bên dưới, ai sẽ là người ít khả năng nhất mà giám đốc dự án thêm vào đội dự án.",
+        "type":"single",
+        "answers": [
+            {
+                "text": "“Hãy bỏ phiểu về việc này\".",
+                "correct": false
+            },
+            {
+                "text": "“Ý tưởng này không hoạt động đối với đối thủ cạnh tranh, vậy tại sao chúng ta nghĩ là nó sẽ hoạt động ở đây?\"",
+                "correct": true
+            },
+            {
+                "text": "“Các nghiên cứu điểm chuẩn cho thấy điều gì?\"",
+                "correct": false
+            },
+            {
+                "text": "\"Ý tưởng có thể thực hiện được nhưng chúng ta có thể phải thực hiện một vài thay đối nhỏ\".",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "125. Điều chỉnh các nhiệm vụ được phân bố khác nhau trong dự án để duy trì khối lượng nguồn lực phù hợp được gọi là:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Tối ưu hóa nguồn lực.",
+                "correct": false
+            },
+            {
+                "text": "Điều chỉnh nguồn lực.",
+                "correct": true
+            },
+            {
+                "text": "Phân chia nguồn lực.",
+                "correct": false
+            },
+            {
+                "text": "Cơ cấu lại nguồn lực.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "126. Tại sao giám đốc dự án cần có một nhà tài trợ điều hành? nhà cung cấp bên ngoài.",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Để đàm phán hợp đồng với các nhà cung cấp bên ngoài",
+                "correct": false
+            },
+            {
+                "text": "Để giữ đội dự án tập trung vào công việc.",
+                "correct": false
+            },
+            {
+                "text": "Để cung cấp sự giúp đỡ bí mật với cam kết và hỗ trợ về tổ chức.",
+                "correct": true
+            },
+            {
+                "text": "Để ký kết hoàn tất trong các yêu cầu người dùng.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "127. Người lãnh đạo của đội được thăng chức trở thành quyền giám đốc dự án trong khi giảm đốc đang nghỉ việc riêng.",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Thúc đẩy vấn đề trong tổ chức.",
+                "correct": true
+            },
+            {
+                "text": "Xây dựng đội mới hoàn toàn để hoàn thành dự án.",
+                "correct": false
+            },
+            {
+                "text": "Thêm những người mới vào đội để cân bằng khối lượng công việc.",
+                "correct": false
+            },
+            {
+                "text": "Làm việc với đội ngũ thành viên còn lại để đáp ứng các mục tiêu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "128. Kiểm soát chất lượng là:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Đánh giá toàn bộ kết quả dự án trên cơ sở đều đặn.",
+                "correct": false
+            },
+            {
+                "text": "Hoạt động để tăng tính hiệu lực và hiệu suất của dự án.",
+                "correct": false
+            },
+            {
+                "text": "Xác định các chuẩn chất lượng nào liên quan tới dự án.",
+                "correct": false
+            },
+            {
+                "text": "Giám sát các kết quả của dự án cụ thể để xác định xem liệu chúng có tuân theo các chuẩn chất lượng liên quan hay không.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "129. Lựa chọn đội ngũ không chỉ là chức năng tìm kiếm những người là chuyên gia kỹ thuật hay hành chính. Nhà tài trợ dự án chỉ đạo một dự án có tính minh bạch cao sẽ mong đợi gì ở một giám đốc dự án?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Lãnh đạo các chuyên gia về kỹ thuật.",
+                "correct": false
+            },
+            {
+                "text": "Phát triển nhân sự chủ chốt.",
+                "correct": false
+            },
+            {
+                "text": "Phân tích các kỹ năng.",
+                "correct": false
+            },
+            {
+                "text": "Giao thiệp với khách hàng/ nhà tài trợ.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "130. Bạn đang quản lý đội kỹ thuật là những người lao động bán thời gian. Phần lớn những người lao động này là sinh viên và có những cam kết khác trong suốt năm học. Năm ngoái bạn đã chậm trễ trong 1 vài dự án bởi vì bạn đã sắp xếp các dự án được hoàn tất trong suốt kỳ thi tốt nghiệp của sinh viên. Hiện nay bạn đang bắt đầu thực hiện một kế hoạch cho các dự án sắp tới và có thời hạn cuối cùng khác trong suốt giai đoạn thi tốt nghiệp. Bạn nên làm gì để ngăn chặn xung đột này?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Sử dụng các nguồn lực khác trong suốt giai đoạn thi tốt nghiệp",
+                "correct": false
+            },
+            {
+                "text": "Sắp xếp dự án được hoàn tất sau giai đoạn thi tốt nghiệp",
+                "correct": false
+            },
+            {
+                "text": "Thuê thêm sinh viên để được trợ giúp trong suốt giai đoạn thi tốt nghiệp",
+                "correct": false
+            },
+            {
+                "text": "Sử dụng nhiều nguồn lực hơn và rút ngắn lịch trình dự án",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "131. Phương pháp hiệu quả nhất trong việc xây dựng đội dự án trong tổ chức ma trận là tuân theo:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Kế hoạch truyền thông.",
+                "correct": false
+            },
+            {
+                "text": "Kế hoạch phát triển đào tạo.",
+                "correct": false
+            },
+            {
+                "text": "Kế hoạch quản lý đội ngũ.",
+                "correct": true
+            },
+            {
+                "text": "Kế hoạch quản lý thay đổi phạm vi.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "132. Nếu dự án của bạn có 5 đội ngũ thành viên thì bạn có bao nhiêu kênh truyền thông?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "10",
+                "correct": true
+            },
+            {
+                "text": "5",
+                "correct": false
+            },
+            {
+                "text": "25",
+                "correct": false
+            },
+            {
+                "text": "6",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "133. Phương pháp nào giải quyết xung đột hiệu quả?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Ép buộc.",
+                "correct": false
+            },
+            {
+                "text": "Thoà hiệp.",
+                "correct": false
+            },
+            {
+                "text": "Giải quyết vấn đề.",
+                "correct": true
+            },
+            {
+                "text": "Rút lui.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "134. Các kỹ thuật giải quyết xung đột có thể được dùng trong dự án bao gồm:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Đối đầu, thoả hiệp, dàn xếp, quản lý.",
+                "correct": false
+            },
+            {
+                "text": "Dàn xếp, đối đầu, ép buộc và rút lui.",
+                "correct": true
+            },
+            {
+                "text": "Rút lui, thoả hiệp, kiểm soát và ép buộc.",
+                "correct": false
+            },
+            {
+                "text": "Kiểm soát, ép buộc, dàn xếp, rút lui.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "135. Trong các dự án công nghệ thông tin, truyền thông giữa giám đốc dự án và đội ngũ thành viên dự án là hình thức.",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Qua báo cáo trạng thái hàng tuần.",
+                "correct": false
+            },
+            {
+                "text": "Theo các hình thức mẫu được phê chuẩn.",
+                "correct": false
+            },
+            {
+                "text": "Thông qua chuỗi yêu cầu chính thức.",
+                "correct": false
+            },
+            {
+                "text": "Bằng truyền thông miệng và viết.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "136. Liệt kê đội ngũ thành viên, các nhiệm vụ theo lịch trình và kế hoạch đào tạo là bộ phận của.",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Kế hoạch dự án.",
+                "correct": true
+            },
+            {
+                "text": "Kế hoạch truyền thống.",
+                "correct": false
+            },
+            {
+                "text": "Cấu trúc chi tiết công việc (WBS)",
+                "correct": false
+            },
+            {
+                "text": "Quy định dự án.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "137. Trong suốt cuộc họp của đội dự án hàng tuần theo lịch trình, vấn đề nổi lên không thể giải quyết được trong khung thời gian của cuộc họp theo lịch trình. Nếu vấn đề này không được giải quyết thì nó có thể làm cho dự án bị tạm ngừng. Hoạt động nào tốt nhất mà giám đốc dự án nên tuân theo để giải quyết vấn đề này?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Kết thúc cuộc họp đúng giờ, điều tra vấn đề một cách kỹ lưỡng và chú trọng vào vẫn đề trong cuộc họp dự án hàng tuần tiếp theo.",
+                "correct": false
+            },
+            {
+                "text": "Tiếp tục cuộc họp muộn hơn thời gian theo lịch trình cho tới khi vẫn đề được giải quyết.",
+                "correct": false
+            },
+            {
+                "text": "Kết thúc cuộc họp đúng giờ và sắp xếp cuộc họp khác để giải quyết vấn đề",
+                "correct": true
+            },
+            {
+                "text": "Tiếp tục cuộc họp theo chính sách giải quyết xung đột của công ty.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "138. Thành phần nào là bộ phận của kế hoạch truyền thông hiệu quả?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Biểu đồ luồng dữ liệu.",
+                "correct": false
+            },
+            {
+                "text": "PERT (Kỹ thuật duyệt và đánh giá dự án).",
+                "correct": false
+            },
+            {
+                "text": "Tần số.",
+                "correct": true
+            },
+            {
+                "text": "Thủ tục ký kết hoàn tất.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "139. Giám đốc dự án đang trải qua bất đồng giữa nhà cung cấp và đội dự án. Bằng việc điều tra tình hình, giám đốc dự án đã thấy rằng nhà tài trợ đã tăng giá cả ban đầu đã được nhất trí trong hợp đồng do nhu cầu thị trường. Phương hướng hành động nào là tốt nhất để giải quyết xung đột này?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Giải thích sự thoả thuận về giá cả trong hợp đồng và ảnh hưởng sẽ gây ra trong dự án, đồng thời thông báo cho các đối tượng liên quan dự án.",
+                "correct": false
+            },
+            {
+                "text": "Giải thích với nhà cung cấp rằng họ đang vi phạm hợp đồng và bạn lập kế hoạch tỉm kiếm những hành động pháp lý.",
+                "correct": false
+            },
+            {
+                "text": "Thảo luận với nhà cung cấp quy trình thực hiện trật tự thay đổi để tăng giá cả.",
+                "correct": false
+            },
+            {
+                "text": "Thảo luận với nhà cung cấp về sự thoả thuận giá cả và ảnh hưởng đối với dự án, yêu cầu trình tự thay đổi đồng thời thông báo cho các đối tượng liên quan dự án.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "140. Khi nào kết quả của kế hoạch truyền thông nên được duyệt?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Khi kết thúc dự án.",
+                "correct": false
+            },
+            {
+                "text": "Trong suốt dự án.",
+                "correct": true
+            },
+            {
+                "text": "Trong suốt quá trình xây dựng kế hoạch dự án.",
+                "correct": false
+            },
+            {
+                "text": "Khi phê duyệt kế hoạch truyển thống.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "141. Kỹ thuật truyền đạt nào sau đây sẽ cải thiện tốt nhất cách hiểu của các đối tượng liên quan về dự án?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Những phản kháng của đối tượng liên quan trong đội quản lý dự án",
+                "correct": false
+            },
+            {
+                "text": "Các cuộc họp toà thị chính với đội dự án cung cấp thông tin và các đối tượng liên quan có khả năng đề nghị các câu hỏi.",
+                "correct": true
+            },
+            {
+                "text": "Các cuộc họp điều hành với các đối tượng liên quan để giải thích những mục tiêu dự ăn và các kết quả mong muốn.",
+                "correct": false
+            },
+            {
+                "text": "Thư điện tử về việc thực thi cho tất cả nhân viên về những mục tiêu dự án và các kết quả mong muốn.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "142. Trong số tất cả các xung đột có thể xẩy ra trong dự án thì xung đột nào là bất lợi nhất đối với kết quả và hiệu suất của đội?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Các thoả hiệp về kỹ thuật.",
+                "correct": false
+            },
+            {
+                "text": "Những mâu thuẫn cá nhân.",
+                "correct": false
+            },
+            {
+                "text": "Các xung đột trong hội đồng.",
+                "correct": true
+            },
+            {
+                "text": "Xung đột lịch trình.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "143. Lập kế hoạch truyền thông dự án thường liên quan chặt chẽ với:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Lập kế hoạch tổ chức.",
+                "correct": true
+            },
+            {
+                "text": "Xác định đối tượng liên quan đến dự án",
+                "correct": false
+            },
+            {
+                "text": "Lập kế hoạch nguồn lực",
+                "correct": false
+            },
+            {
+                "text": "Xây dựng kinh phí",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "144. Mặc dù có nhiều tác dụng phụ nhưng mục tiêu chính của các điều khoản khuyến khích trong giao tiếp là:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Sắp xếp mục tiêu của nhà thầu và mục tiêu của người mua cho phù hợp.",
+                "correct": true
+            },
+            {
+                "text": "Kiểm soát các chi phí của nhà thầu.",
+                "correct": false
+            },
+            {
+                "text": "Giảm rủi ro cho nhà thầu.",
+                "correct": false
+            },
+            {
+                "text": "Giảm chi phí cho người mua.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "145. Bạn sẽ tìm các thủ tục và chính sách xác định truyền thông thực tiễn nhất có thể chấp nhận được đối với một dự án tích cực ở đâu?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Bảng kê công việc (SOW)",
+                "correct": false
+            },
+            {
+                "text": "Tài liệu vai trò và trách nhiệm.",
+                "correct": false
+            },
+            {
+                "text": "Sách chỉ dẫn các thủ tục và chính sách của công ty.",
+                "correct": true
+            },
+            {
+                "text": "Sách dự án",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "146. Đối phó các mối đe doạ rủi ro thông thường rơi vào ba loại nào? (Chọn 3)",
+        "type":"multiple",
+        "answers": [
+            {
+                "text": "Phủ nhận",
+                "correct": false
+            },
+            {
+                "text": "Cơ hội",
+                "correct": false
+            },
+            {
+                "text": "Giảm thiểu",
+                "correct": true
+            },
+            {
+                "text": "Tránh khỏi",
+                "correct": true
+            },
+            {
+                "text": "Chấp thuận",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "147. Hai kết quả có thể xẩy ra đối với kế hoạch dự án khi kinh phí bắt buộc được xác lập thấp là gì? (Chọn hai đáp án)",
+        "type":"multiple",
+        "answers": [
+            {
+                "text": "Dự án bị huỷ bỏ.",
+                "correct": false
+            },
+            {
+                "text": "Lịch trình dự án giảm xuống.",
+                "correct": false
+            },
+            {
+                "text": "Chất lượng dự án giảm xuống.",
+                "correct": true
+            },
+            {
+                "text": "Tính năng dự án giảm xuống.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "148. Chiến lược phản ứng rủi ro nhằm làm giảm khả năng hay ảnh hưởng của những sự kiện rủi ro bất lợi tới ngưỡng cửa chấp thuận được gọi là:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Tránh rủi ro.",
+                "correct": false
+            },
+            {
+                "text": "Chuyển giao rủi ro.",
+                "correct": false
+            },
+            {
+                "text": "Giảm thiểu rủi ro.",
+                "correct": true
+            },
+            {
+                "text": "Chấp thuận rủi ro.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "149. Phương pháp thích hợp nhất để quyết định liệu rủi ro xác định có được cụ thể hoa hay không là gì?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Duyệt số ghi vấn đề.",
+                "correct": false
+            },
+            {
+                "text": "Xác định xem liệu dấu hiệu rủi ro có đạt được hay không.",
+                "correct": true
+            },
+            {
+                "text": "Xây dựng kế hoạch quản lý rủi ro.",
+                "correct": false
+            },
+            {
+                "text": "Dùng phân tích độ nhạy cảm.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "150. Trong suốt giai đoạn xây dựng dự án, đội dự án đã xác định số lượng rủi ro có thể ảnh hưởng tới chất lượng của kết quả. Trước khi xây dựng kế hoạch phản ứng rủi ro, đội dự án nên:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Sử dụng phương pháp luận kỹ thuật duyệt và đánh giá chương trình để ưu tiên rủi ro.",
+                "correct": false
+            },
+            {
+                "text": "Phân tích khả năng mỗi rủi ro có thể xảy ra và ảnh hưởng tiềm ẩn của từng rủi ro.",
+                "correct": true
+            },
+            {
+                "text": "Không để ý đến các rủi ro bất kỳ không nằm trên đường tới hạn.",
+                "correct": false
+            },
+            {
+                "text": "Liệt kê tất cả các ràng buộc của dự án.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "151. Bạn là giám đốc một dự án đã bắt đầu cách đây 4 tháng. Dự án đã được bảo vệ khoảng một năm bởi phó chủ tịch bộ phận nhưng việc quản lý tài chính và trách nhiệm của nhà tài trợ đã được giao phó cho một trong những trưởng bộ phận. Một vài giám đốc khác cũng nằm trong danh sách phê chuẩn các tài liệu dự án chính. Tài liệu dự án ban đầu đã được hoàn tất và phê duyệt và dự án nằm trong lịch trình. Các yêu cầu đã được xác định, lập tài liệu và đệ trình để được sự chấp thuận trách nhiệm của nhà tài trợ. Những phê duyệt theo yêu cầu đã nhận được vào cuối ngày được phân bổ theo vòng phê duyệt. Tuy nhiên phê duyệt của một giảm đốc phụ thuộc vào việc thêm ba yêu cầu quan trọng. Các yêu cầu này không lường trước được trong phạm vi dự án ban đầu cũng không phải chúng được khám phá trong suốt giai đoạn phân tích yêu cầu. Rủi ro nào bạn chắc chắn cần phải chú trọng nhất?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Mất sự hỗ trợ của nhà tài trợ.",
+                "correct": false
+            },
+            {
+                "text": "Thay đổi lịch trình dự án.",
+                "correct": false
+            },
+            {
+                "text": "Thay đổi ngân quỹ dự án.",
+                "correct": false
+            },
+            {
+                "text": "Thay đổi phạm vi dự án.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "152. Phản ứng với sự kiện rủi ro không được xác định trước về việc xẩy ra của nó được gọi là:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Phân ứng hoạt động hiệu chỉnh.",
+                "correct": false
+            },
+            {
+                "text": "Phản ứng dự phòng.",
+                "correct": false
+            },
+            {
+                "text": "Phản ứng nhanh.",
+                "correct": true
+            },
+            {
+                "text": "Phản ứng giảm thiểu rủi ro.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "153. Một công ty quyết định không cạnh tranh trong một gói thầu. Lý do được giám đốc đưa ra là cơ hội hoàn tất dự án trong khung thời gian dự định là rất mong manh. Đây là chiến lược giải quyết rủi ro nào?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Giảm thiểu rủi ro.",
+                "correct": false
+            },
+            {
+                "text": "Chuyển giao rủi ro.",
+                "correct": false
+            },
+            {
+                "text": "Tránh rủi ro.",
+                "correct": true
+            },
+            {
+                "text": "Chấp thuận rủi ro.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "154. Kỹ thuật nào sau đây được dùng để theo dõi rủi ro dự án?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Phân tích PERT (Kỹ thuật duyệt và đánh giá dự án).",
+                "correct": false
+            },
+            {
+                "text": "Biểu đồ Pareto.",
+                "correct": false
+            },
+            {
+                "text": "Biểu đồ R",
+                "correct": false
+            },
+            {
+                "text": "Ma trận xác suất và ảnh hưởng.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "155. Giám đốc dự án ưu tiên rủi ro như thế nào?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Bằng các ưu tiên về thực thị.",
+                "correct": false
+            },
+            {
+                "text": "Bằng ảnh hưởng về tài chính.",
+                "correct": false
+            },
+            {
+                "text": "Bằng ảnh hưởng đường thời gian.",
+                "correct": false
+            },
+            {
+                "text": "Bằng toàn bộ ảnh hưởng lên dự án.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "156. Quy trình để thay đổi điều khoản hợp đồng ............hệ thống quản lý thay đổi dự án.",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Không liên quan tới",
+                "correct": false
+            },
+            {
+                "text": "Tích hợp với",
+                "correct": true
+            },
+            {
+                "text": "Là đầu vào",
+                "correct": false
+            },
+            {
+                "text": "Tương tự như",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "157. Các đánh giá sau hợp đồng quan trọng bởi vì:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Hầu hết các hợp đồng đều yêu cầu chúng.",
+                "correct": false
+            },
+            {
+                "text": "Chúng được yêu cầu về mặt pháp lý trong nhiều quyền hạn xét xử.",
+                "correct": false
+            },
+            {
+                "text": "Chúng xác lập cơ sở lịch sử cho sự lựa chọn của nhà thầu.",
+                "correct": true
+            },
+            {
+                "text": "Thù lao gắn liền với hiệu quả của nhà thầu.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "158. Một trong số nhà cung cấp trong dự án của bạn cố gắng tham gia cuộc kiểm tra chấp thuận của bạn. Giám đốc kiểm tra chấp thuận từ chối thực hiện mã cho biết là không thực hiện chức năng đầy đủ để kiểm tra. Điều gì có thể góp phần vào khó khăn này? (Chọn 3)",
+        "type":"multiple",
+        "answers": [
+            {
+                "text": "Hợp đồng không rõ ràng về tiêu chí hoàn tất.",
+                "correct": true
+            },
+            {
+                "text": "Nhà cung cấp tuân theo một quy trình xây dựng khác.",
+                "correct": false
+            },
+            {
+                "text": "Tiến trình của nhà cung cấp không được giám sát đầy đủ.",
+                "correct": true
+            },
+            {
+                "text": "Kế hoạch của nhà cung cấp không được duyệt đầy đủ.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "159. Một công ty quyết định không cạnh tranh trong một gói thầu. Lý do được giám đốc đưa ra là cơ hội hoàn tất dự án trong khung thời gian dự định là rất mong manh. Đây là chiến lược giải quyết rủi ro nào?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Chuyển giao rủi ro.",
+                "correct": false
+            },
+            {
+                "text": "Giảm thiểu rủi ro.",
+                "correct": false
+            },
+            {
+                "text": "Tránh rủi ro.",
+                "correct": true
+            },
+            {
+                "text": "Chấp thuận rủi ro.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "160. Phạm vi của dự án vượt quả kinh phí bởi vì các mục được mua đắt hơn so với dự liệu ban đầu. Lượng dư thừa này sẽ vượt quá tổng kinh phí cho dự án. Giám đốc dự án nên làm gì?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Tiếp cận các đối tượng liên quan dự án để tăng kinh phí.",
+                "correct": true
+            },
+            {
+                "text": "Điều chỉnh các mục kinh phí để thu hút các chi phí vượt quả.",
+                "correct": false
+            },
+            {
+                "text": "Giảm các chi phí phạm vi để không vượt quá kính phí",
+                "correct": false
+            },
+            {
+                "text": "Không thay đổi kinh phí.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "161. Các gói công việc được mô tả trong:",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Bảng kê công việc.",
+                "correct": false
+            },
+            {
+                "text": "Quy định công việc.",
+                "correct": false
+            },
+            {
+                "text": "Cấu trúc chi tiết công việc.",
+                "correct": true
+            },
+            {
+                "text": "Kế hoạch dự án công việc.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "162. Sự tương ứng, những thay đổi hợp đồng và các yêu cầu phải trả là ......... của quản lý hợp đồng.",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Công cụ",
+                "correct": false
+            },
+            {
+                "text": "Sản phẩm",
+                "correct": true
+            },
+            {
+                "text": "Đầu vào",
+                "correct": false
+            },
+            {
+                "text": "Chức năng",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "163. Giám đốc dự án đang trải qua bất đồng giữa nhà cung cấp và đội dự án. Bằng việc điều tra tình hình, giám đốc dự án đã thấy rằng nhà tài trợ đã tăng giá cả ban đầu đã được nhất trí trong hợp đồng do nhu cầu thị trường. Phương hướng hành động nào là tốt nhất để giải quyết xung đột này?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Thảo luận với nhà cung cấp về sự thoả thuận giá ảnh hưởng đối với cả và cầu trình tự thay đổi đồng thời thông báo cho các đối tượng liên quan dự án.",
+                "correct": true
+            },
+            {
+                "text": "Giải thích với nhà cung cấp rằng họ đang vi phạm hợp đồng và bạn lập kế hoạch tìm kiếm những hành động pháp lý.",
+                "correct": false
+            },
+            {
+                "text": "Thảo luận với nhà cung cấp quy trình thực hiện trật tự thay đổi để tăng về giá cả.",
+                "correct": false
+            },
+            {
+                "text": "Giải thích sự thảo thuận về giá cả trong hợp đồng và ảnh hưởng sẽ gây ra trong dự án, đồng thời thông báo cho các đối tượng liên quan dự án.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "164. Bạn nhận được hóa đơn từ nhà thầu của mình trong hợp đồng giá cố định với lịch trình phải trả gắn liền với việc hoàn tất các mốc quan trọng. Điều gì là quan trọng nhất để duyệt",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Các hoạt động đang tiếp diễn",
+                "correct": false
+            },
+            {
+                "text": "Công việc đã được hoàn tất",
+                "correct": true
+            },
+            {
+                "text": "Số giờ đã dùng hết",
+                "correct": false
+            },
+            {
+                "text": "Theo đúng lịch trình",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "165. Chi phí thuê phòng sẽ được dùng cho cuộc họp dự án là ví dụ minh họa cho loại chi phí nào?",
+        "type":"single",
+        "answers": [
+            {
+                "text": "Chi phí không được dự kiến",
+                "correct": false
+            },
+            {
+                "text": "Chi phí cố định",
+                "correct": true
+            },
+            {
+                "text": "Chi phí tất yếu",
+                "correct": false
+            },
+            {
+                "text": "Chi phí biến động",
+                "correct": false
+            }
+        ]
+    }
+]

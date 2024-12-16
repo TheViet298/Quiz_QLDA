@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mammoth/1.4.2/mammoth.browser.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .quiz-container {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+            text-align: center;
+            width: 100%;
+            max-width: 600px;
+        }
+
+        #question {
+            font-size: 1.2em;
+            margin-bottom: 20px;
+        }
+
+        .answers button {
+            color: #000;
+            display: block;
+            margin: 10px auto;
+            padding: 10px 20px;
+            width: 80%;
+            font-size: 1em;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .answers button:hover {
+            background-color: #dfd8d8;
+        }
+
+        .answers button.correct {
+            background-color: #28a745;
+        }
+
+        .answers button.wrong {
+            background-color: #dc3545;
+        }
+
+        #nextButton {
+            display: none;
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 1em;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        #nextButton:hover {
+            background-color: #218838;
+        }
+
+        #uploadSection {
+            margin-bottom: 20px;
+        }
+
+        #fileInput {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="quiz-container">
+        <h1>Quiz</h1>
+        <div id="uploadSection">
+            <label for="fileInput">Tải tệp Word chứa câu hỏi:</label>
+            <input type="file" id="fileInput" accept=".docx">
+        </div>
+        <div id="question">Câu hỏi sẽ hiển thị ở đây</div>
+        <div class="answers" id="answers"></div>
+        <button id="nextButton">Câu tiếp theo</button>
+    </div>
+
+    <script>
+        let questions = [];
+        let currentQuestionIndex = 0;
+
+        const questionElement = document.getElementById('question');
+        const answersElement = document.getElementById('answers');
+        const nextButton = document.getElementById('nextButton');
+        const fileInput = document.getElementById('fileInput');
+
+        // Load questions from the uploaded Word file
+        fileInput.addEventListener('change', async (event) => {
+            const file = event.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = async (e) => {
+                    const arrayBuffer = e.target.result;
+                    try {
+                        const result = await window.mammoth.extractRawText({ arrayBuffer });
+                        parseQuestions(result.value);
+                        if (questions.length > 0) {
+                            showQuestion(currentQuestionIndex);
+                        } else {
+                            alert('No questions found in the file.');
+                        }
+                    } catch (err) {
+                        alert('Error processing file: ' + err.message);
+                    }
+                };
+
+                reader.readAsArrayBuffer(file);
+            } else {
+                alert('Please upload a valid Word file.');
+            }
+        });
+
+        // Parse text content to questions array
+        function parseQuestions(rawText) {
+            const lines = rawText.split('\n').filter(line => line.trim() !== '');
+            let question = null;
+            lines.forEach(line => {
+                if (line.match(/^\d+\.\s/)) {
+                    // If there is an existing question, push it to the questions array
+                    if (question) {
+                        questions.push(question);
+                    }
+                    // Start a new question
+                    question = { question: line, answers: [] };
+                } else if (line.startsWith('-')) {
+                    // Incorrect answer
+                    question.answers.push({ text: line.replace(/^-\s*/, ''), correct: false });
+                } else if (line.startsWith('*')) {
+                    // Correct answer
+                    question.answers.push({ text: line.replace(/^\*\s*/, ''), correct: true });
+                }
+            });
+            // Push the last question if any
+            if (question) {
+                questions.push(question);
+            }
+        }
+
+
+        // Display a question
+        function showQuestion(questionIndex) {
+            const question = questions[questionIndex];
+            if (!question) {
+                alert('Invalid question index.');
+                return;
+            }
+            questionElement.textContent = question.question;
+            answersElement.innerHTML = '';
+
+            question.answers.forEach((answer, index) => {
+                const button = document.createElement('button');
+                const letter = String.fromCharCode(65 + index); // Convert index to letter (A, B, C, D, ...)
+                button.textContent = `${letter}. ${answer.text}`;
+                button.addEventListener('click', () => selectAnswer(button, answer.correct));
+                answersElement.appendChild(button);
+            });
+        }
+
+
+        // Handle answer selection
+        function selectAnswer(button, isCorrect) {
+            Array.from(answersElement.children).forEach(btn => {
+                btn.disabled = true; // Disable all buttons after selecting
+                if (btn.textContent === button.textContent) {
+                    btn.classList.add(isCorrect ? 'correct' : 'wrong');
+                } else if (questions[currentQuestionIndex].answers.find(a => a.text === btn.textContent.split('. ')[1] && a.correct)) {
+                    btn.classList.add('correct');
+                }
+            });
+            nextButton.style.display = 'block';
+        }
+
+        // Move to the next question
+        nextButton.addEventListener('click', () => {
+            currentQuestionIndex++;
+            if (currentQuestionIndex < questions.length) {
+                showQuestion(currentQuestionIndex);
+                nextButton.style.display = 'none';
+            } else {
+                questionElement.textContent = 'Bạn đã hoàn thành bài kiểm tra!';
+                answersElement.innerHTML = '';
+                nextButton.style.display = 'none';
+                alert('Quiz completed!');
+            }
+        });
+    </script>
+</body>
+
+</html>
