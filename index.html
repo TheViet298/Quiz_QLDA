@@ -104,7 +104,7 @@
         let selectedClusterIndex = null;
 
         async function fetchQuestions() {
-            const response = await fetch('questions.json'); // Thay đường dẫn file JSON
+            const response = await fetch('questions.json');
             return await response.json();
         }
 
@@ -200,7 +200,7 @@
             const correctAnswers = question.answers.map((a, i) => (a.correct ? i : null)).filter(i => i !== null);
 
             if (question.type === 'multiple' && selectedAnswers.length < correctAnswers.length) {
-                return; // Chưa chọn đủ đáp án
+                return; 
             }
 
             // Vô hiệu hóa các ô chọn
