@@ -57,24 +57,24 @@ def main():
     )
 
     if not file_path:
-        messagebox.showinfo("Không có file nào được chọn", "Bạn chưa chọn file.")
+        messagebox.showinfo("Không có file nào được chọn", "Chưa chọn file")
         return
 
     try:
         questions_data = parse_questions(file_path)
 
         if not questions_data:
-            messagebox.showwarning("Không có dữ liệu", "Không tìm thấy câu hỏi hoặc đáp án trong file.")
+            messagebox.showwarning("Không có dữ liệu", "Không tìm thấy câu hỏi hoặc đáp án trong file!")
             return
 
         output_path = filedialog.asksaveasfilename(
             title="Lưu tập tin JSON",
             defaultextension=".json",
-            filetypes=[("JSON Files", "*.json")]
+            filetypes=[("output_q", "*.json")]
         )
 
         if not output_path:
-            messagebox.showinfo("Hủy lưu file", "Bạn đã hủy lưu file.")
+            messagebox.showinfo("Hủy lưu file")
             return
 
         save_to_json(questions_data, output_path)
